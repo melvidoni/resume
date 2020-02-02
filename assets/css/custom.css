@@ -1,0 +1,330 @@
+/*************************************************
+ *  Core
+ **************************************************/
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
+
+/* Headings */
+
+.section-heading p {
+  font-size: 0.95em !important;
+}
+
+a,
+h3.article-title a:hover {
+  color: #6f4402;
+}
+
+
+a:hover,
+a:focus {
+  color: #d8a623;
+}
+
+#profile .portrait-title h3[itemprop="jobTitle"] {
+    font-size: 1.15rem;
+}
+#profile .portrait-title h3[itemprop="worksFor"] {
+    font-size: 0.9rem !important;
+}
+
+
+ul.network-icon li a i {
+  color: rgba(48, 48, 48, 0.5) !important;
+}
+
+ul.network-icon li a i:hover {
+  color: #a71501 !important;
+}
+
+.logoimg {
+  margin-left: auto;
+  margin-right: auto;
+}
+/*************************************************
+ *  BLOGS
+ **************************************************/
+
+#posts .media.stream-item {
+    margin-bottom: 2rem;
+    background-color: #ffffff;
+    padding: 1em;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    transition: all 0.2s ease-out;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+
+#posts .media.stream-item:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+
+
+
+
+
+/*************************************************
+ *  TALKS
+ **************************************************/
+
+#talks_selected .row {
+    flex-grow: 1 !important;
+}
+
+#talks_selected .projects-container {
+    display: flex !important;
+}
+
+#talks_selected .card {
+  padding: 1em;
+}
+
+
+.article-metadata a:hover {
+  color: #6f4402;
+}
+
+
+.article-style img, .article-style video, .article-style figure {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    padding: 0;
+}
+
+
+table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, table > tbody > tr:hover > td, table > tbody > tr:hover > th, table {
+    background-color: transparent !important;
+    border-top: 0px !important;
+    margin-bottom: 0;
+}
+
+
+/*************************************************
+ *  Button Primary: Color Override
+ **************************************************/
+
+.btn-primary {
+  border-color: #a71501;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary,
+.btn-outline-primary:hover {
+  background: #a71501;
+  border-color: #a71501;
+}
+
+
+/*************************************************
+ *  Button Outlines
+ **************************************************/
+
+
+.btn-primary.btn-outline, .btn-outline-primary {
+  color: #a71501;
+  border-color: #a71501;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  background-color: #a71501;
+  border-color: #a71501;
+  color: #ffffff;
+  box-shadow: 0 0 0 0 #ffffff;
+}
+
+.btn-outline-primary.focus, .btn-outline-primary:focus {
+    box-shadow: 0 0 0 0 #ffffff;
+    color: #a71501;
+}
+
+
+
+/*************************************************
+ *  Posts
+ **************************************************/
+.media-body .article-title a {
+    color: #a71501 !important;
+}
+
+
+.media-body .article-title a:before {
+   font-family: "Font Awesome 5 Free";
+   content: "\f044";
+   display: inline-block;
+   padding-right: 3px;
+   vertical-align: middle;
+   font-weight: 900;
+   font-size: 1rem;
+}
+
+
+.article-title a:hover {
+    color: #a71501 !important;
+}
+
+.media.stream-item .stream-meta {
+    margin-top: 0 !important;
+}
+
+
+
+/*************************************************
+ *  Forms
+ **************************************************/
+.form-control:focus {
+    border-color: #a71501;
+    box-shadow: 0 0 0 0rem #ffffff;
+}
+
+
+/*************************************************
+ *  Navigation Bar
+ **************************************************/
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #6f4402;
+  font-weight: 400;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
+.dropdown-menu, nav#navbar-main li.nav-item {
+    font-size: 0.85rem !important;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > .active > a:hover {
+  color: #fff;
+  text-decoration: none;
+  background-color: #6f4402;
+  outline: 0;
+}
+
+.navbar-light {
+  background: #5a5a5a !important;
+  text-transform: uppercase !important;
+  color: #ffffff !important;
+}
+
+
+.navbar-light .navbar-nav>li.nav-item>a.active, .navbar-light .navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
+    color: #d8a623;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+@media screen and (max-width: 1200px) {
+
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+    color: #6f4402;
+    background-color: transparent;
+  }
+
+}
+
+/*************************************************
+ *  Toolbar Buttons
+ **************************************************/
+
+
+.btn-toolbar .btn.btn-primary {
+  background: #afafaf;
+}
+
+.btn-toolbar .btn.btn-primary:hover,
+.btn-toolbar .btn.btn-primary:focus {
+  background-color: #a71501 !important;
+}
+
+.btn-toolbar .btn.btn-primary:active,
+.btn-toolbar .btn.btn-primary.active {
+  background-color: #a71501 !important;
+  box-shadow: 0 0 0 0 #ffffff !important;
+}
+
+
+.navbar-toggler {
+    color: #cccccc !important;
+}
+
+/*************************************************
+ *  Publications
+ **************************************************/
+
+.pub-icon {
+  color: rgb(52,60,86);
+  font-size: 0.81em;
+  padding-top: 6px;
+}
+
+.pub-list-item .pub-publication {
+  color: rgb(132, 214, 211);
+  font-size: 1rem;
+}
+
+
+/*************************************************
+ *  Fonts (note: update link @ themes/hugo-academic/layouts/partials)
+ **************************************************/
+
+html {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: 400;
+}
+
+
+.navbar-light .navbar-nav>.nav-item>.nav-link, .navbar-light .navbar-nav>.nav-item>.nav-link:focus, .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+    white-space: nowrap;
+    -webkit-transition: 0.2s ease;
+    transition: 0.2s ease;
+    color: #ffffff;
+    font-weight: 500;
+    .navbar .navbar-light a {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 500 !important;
+    letter-spacing: 1px;
+    font-size: 19px !important;
+}
+
+.portrait-title h3[itemprop="jobTitle"] {
+    font-size: 1.15rem !important;
+}
+
+
+
+
+/*************************************************
+ *  Alerts
+ **************************************************/
+
+
+.alert-note {
+  color: #fff;
+  background-color: rgb(127,140,180);
+  border-color: #bce8f1;
+}
+
+.alert-warning {
+  color: #fff;
+  background-color: rgb(238, 88, 99);
+  border-color: #ebccd1;
+}
