@@ -1,6 +1,6 @@
 ---
 # Project title.
-title: "Software Engineering Contributions to Operational Research Interventions"
+title: "Operational Research Driven By Software Engineering Principles"
 
 # Date this page was created.
 date: 2018-04-01T00:00:00

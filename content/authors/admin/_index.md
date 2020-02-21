@@ -80,7 +80,7 @@ email: ""
 ---
 
 
-Dr Melina Vidoni is a newly joined academic in the School of Science/Computer Science and Software Engineering at [RMIT University](https://www.rmit.edu.au/about/schools-colleges/science). She graduated from the Universidad Tecnologica Nacional (UTN) as an Information Systems Engineer, where she also received her PhD in the same area, with the maximum qualification. She is also an Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/).
+Dr Melina Vidoni is an ECR academic in the School of Science/Computer Science and Software Engineering at [RMIT University](https://www.rmit.edu.au/about/schools-colleges/science). She graduated from the Universidad Tecnologica Nacional (UTN) as an Information Systems Engineer, where she also received her PhD in the same area, with the maximum qualification. She is also an Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/).
 
 From 2013 to early 2019, Dr Melina Vidoni held a PhD scholarship and a Postdoc position at [INGAR CONICET-UTN](http://www.ingar.santafe-conicet.gov.ar/), under the supervision of Prof. Aldo Vecchietti. During 2018, she was an Assistant Lecturer at [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/), in Santa Fe (Argentina), at the [Department of Information Systems Engineering](https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-en-sistemas-de-informacion). On the same year, she funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/).
 

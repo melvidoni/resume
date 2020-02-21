@@ -21,6 +21,6 @@ doi: ""
 
 
 # Projects (optional).
-projects: ["2017-softorse"]
+projects: ["2018-softorse"]
 
 ---

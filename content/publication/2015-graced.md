@@ -8,7 +8,7 @@ math: true
 publication_types: ["3"]
 publication: "In *Computers in Industry*. Vol. 73, pp39-50"
 publication_short: "*Computers in Industry*. Vol. 73, pp39-50"
-featured: true
+featured: false
 title: "An Intelligent Agent for ERP's Data Structure Analysis Based on ANSI/ISA-95 Standard"
 url_code: "https://github.com/melvidoni/graced"
 url_dataset: ""

@@ -26,6 +26,7 @@ weight = 30
 
 **Leadership Experience**
 
+- Women in Computer Science, Software Engineering, Games and IT Champion, for RMIT University's Disciplines of Computer Science & Software Engineering, and IT (2020-present).
 - Founder and Main-Organiser of [R-Ladies Santa Fe](https://www.meetup.com/en-AU/rladies-santa-fe/) (2018).
 - Organising Committee Member of [Latinamerican Conference About the Use of R in R&D (LatinR 2018)](http://latin-r.com/equipo/).
 

@@ -20,7 +20,7 @@ doi: "10.5220/0006760504320440"
 
 
 # Projects (optional).
-projects: ["2017-softorse"]
+projects: ["2018-softorse"]
 
 url_custom:
   name: "Poster"
