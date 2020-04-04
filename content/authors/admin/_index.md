@@ -20,12 +20,13 @@ organizations:
   url: "https://ropensci.org/blog/2019/01/31/more_editors/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Information Systems Engineering, Lecturer at RMIT Computer Science/Software Engineering, Associate Editor of rOpenSci.
+bio: PhD in Information Systems Engineering, Lecturer at RMIT Computer Science/Software Engineering. Associate Editor of rOpenSci.
 
 interests:
-- Software Engineering, Software Quality and Systems Architecture
-- Planning Systems and Industry 4.0
-- R Development and Communities
+- Empirical Software Engineering
+- Requirements Engineering
+- Agile Methodologies
+- Operational Research
 
 
 education:
@@ -80,8 +81,12 @@ email: ""
 ---
 
 
-Dr Melina Vidoni is an ECR academic in the School of Science/Computer Science and Software Engineering at [RMIT University](https://www.rmit.edu.au/about/schools-colleges/science). She graduated from the Universidad Tecnologica Nacional (UTN) as an Information Systems Engineer, where she also received her PhD in the same area, with the maximum qualification. She is also an Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/).
+I am a Lecturer at the School of Science/Computer Science and Software Engineering at [RMIT University](https://www.rmit.edu.au/about/schools-colleges/science). I graduated from Universidad Tecnologica Nacional (UTN) as an Information Systems Engineer, where I also received her PhD, with the maximum qualification. I am Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/).
 
-From 2013 to early 2019, Dr Melina Vidoni held a PhD scholarship and a Postdoc position at [INGAR CONICET-UTN](http://www.ingar.santafe-conicet.gov.ar/), under the supervision of Prof. Aldo Vecchietti. During 2018, she was an Assistant Lecturer at [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/), in Santa Fe (Argentina), at the [Department of Information Systems Engineering](https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-en-sistemas-de-informacion). On the same year, she funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/).
+From 2013 to early 2019, I held a PhD scholarship and a Postdoc position at [INGAR CONICET-UTN](http://www.ingar.santafe-conicet.gov.ar/), under the supervision of Prof. Aldo Vecchietti. During 2018, I was an Assistant Lecturer at [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/), in Santa Fe (Argentina), at the [Department of Information Systems Engineering](https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-en-sistemas-de-informacion). On the same year, I funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/).
 
-Her research interests lie in industrial information systems, as well as applying software engineering concepts to diferent areas. She enjoys working on inter-disciplinary teams and applying dynamic approaches to teaching. 
+My research interests are focused on empirical Software Engineering, requirements engineering and agile methodologies. I enjoy working on inter-disciplinary teams and applying dynamic approaches to teaching.
+
+<br/>
+
+_I’m actively recruiting HDR students; this includes Master by Research and PhD; also looking for Honours students. Please contact me if you are interested and have strong interests in software engineering research, e.g., Empirical Software Engineering, agility, software architecture, requirements engineering and quality attributes. I'm also working on Operational Research, but this requires students with strong math foundations and Software Engineering knowledge._

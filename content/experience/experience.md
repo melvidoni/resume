@@ -26,9 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+  This position is permanent, and is equivalent to assistant professor (ternured) in USA. 
+  
   Responsibilities include:
   
-  - Research. Range of topics focused in Software Engineering, Requirements Egineering, Software Development, and Agile Methodologies.
+  - Research. Range of topics focused in empirical Software Engineering, Requirements Egineering, Software Development, and Agile Methodologies.
   - Teaching (refer to [teaching](/#teaching)) and Engagement.
 
   """

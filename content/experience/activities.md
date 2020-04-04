@@ -48,7 +48,9 @@ weight = 30
 
 **Experience as Supervisor**
 
-- Supervision of Master candidate Lic Patricia Loto, working on "R-Based Forecasting and Analysis of Data from the Lotto Game Organisation, in Chaco Province, Argentina" (together with [Dr Laura Cunico](http://www.conicet.gov.ar/new_scp/detalle.php?id=38566&datos_academicos=yes)).
+- Miss Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Quality Attributes in Intelligent Agent Systems.
+- Miss Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Maintenance goals performance in Intelligent Agent Systems.
+- Supervised Master by Research Thesis (3) in Argentina, as main supervisor and co-supervisor.
 
 
 </br>
