@@ -14,6 +14,7 @@ weight = 30
 
 **Talks and Workshops**
 
+- Invited Talk "Software Engineering Process & Techniques in Operational Research", at Monash University. Invited and hosted by Prof Grundy. Melbourne, Australia (March 11th, 2020).
 - [Poster & Lightning Talk](http://www.acsw.org.au/2020-posters) at Australasian Computer Science Week 2020, Swimburne University. Melbourne, Australia (February 2019).
 - [Invited Talk](https://www.meetup.com/en-AU/rladies-melbourne/events/262566179/) at R-Ladies Melbourne (July 2019): "Open Science through rOpenSci".
 - [Moderator](https://ropensci.org/blog/2019/06/13/commcall-jun2019/) for rOpenSci Community Call (June 2019): "Involving Multilingual Communities".
@@ -55,7 +56,18 @@ weight = 30
 
 </br>
 
-**Scholarships and Other Experience**
+
+**Memberships**
+
+- IEEE Member, including Computer Society membership. Since 2020.
+- INSTICC Member, since 2017.
+
+
+
+
+</br>
+
+**Scholarships, and Other Experience**
 
 - Internship at the IT Center, Government of Santa Fe Province, during 2012 (3 months). I was charged at reviewing, selecting and rolling out a Project Management tool for a team of about 20 people.
 - Undergraduate research scholarship, under the supervision of Prof Aldo Vecchietti, at Universidad Tecnologica Nacional (Regional Santa Fe), between 2009-2012. Topic: object-relational databases, and tools to help to the logical design.
