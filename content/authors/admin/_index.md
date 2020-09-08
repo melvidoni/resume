@@ -48,24 +48,21 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: "//twitter.com/melvidoni"
 - icon: google-scholar
   icon_pack: ai
   link: "https://scholar.google.com.ar/citations?user=Th-fldcAAAAJ&hl=en"
-- icon: github
-  icon_pack: fab
-  link: "//github.com/melvidoni"
 - icon: researchgate
   icon_pack: fab
   link: "https://www.researchgate.net/profile/Melina_Vidoni"
 - icon: orcid
   icon_pack: ai
-  link: "https://orcid.org/0000-0002-4099-1430" 
+  link: "https://orcid.org/0000-0002-4099-1430"
+- icon: medium
+  icon_pack: fab
+  link: "https://medium.com/@melvidoni"
 
   
 # Link to a PDF of your resume/CV from the About widget.
