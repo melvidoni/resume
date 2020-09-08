@@ -25,6 +25,13 @@
   url = "experience/"
   weight = 5
 
+
+[[main]]
+  name = "Medium"
+  url = "medium/"
+  weight = 6
+
+
 [[main]]
   name = "Contact"
   url = "#contact"
