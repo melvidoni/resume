@@ -45,26 +45,6 @@ time_format = "3:04 PM"
 
 
 
-############################
-## Contact Widget setup   ##
-############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
-email = "melina.vidoni@rmit.edu.au"
-phone = "+61 399258966"
-address = "RMIT University, City Campus (Melbourne, Australia). Room 14.11.04"
-
-# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Workdays from 7am to 3:30pm, UTC+10"
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-
-# Display a map.
-map = 0
-
-
-
 
 
 ############################

@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: "Lecturer at RMIT CS/SE"
 
 # Organizations/Affiliations
 organizations:
-- name: Lecturer at RMIT CS/SE
-  url: "https://www.rmit.edu.au/contact/staff-contacts/academic-staff/v/vidoni-dr-melina"
 - name: Associate Editor at rOpenSci
   url: "https://ropensci.org/blog/2019/01/31/more_editors/"
+- name: "melina.vidoni@rmit.edu.au"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD in Information Systems Engineering, Lecturer at RMIT Computer Science/Software Engineering. Associate Editor of rOpenSci.
@@ -48,6 +48,9 @@ education:
 
 # Social/Academic Networking
 social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: "melina.vidoni@rmit.edu.au"
 - icon: twitter
   icon_pack: fab
   link: "//twitter.com/melvidoni"

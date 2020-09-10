@@ -11,9 +11,27 @@ function updateStyle() {
 
   // Append
   profile.appendChild(rmit);
+
+
+
+MediumWidget.Init({renderTo: "#medium-widget", params: {"resource":"https://medium.com/@melvidoni","postsPerLine":2,"limit":5,"picture":"none","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})
+
+
+
+ /* var space = document.getElementById('mediumposts');
+
+  var medium = '<div id="medium-widget"></div><script src="https://medium-widget.pixelpoint.io/widget.js"></script>';
+
+
+
+  space.insertAdjacentHTML('beforeend', medium); */
+
 }
+
 
 
 
 // Call the function when loading the site.
 window.onload = updateStyle;
+
+
