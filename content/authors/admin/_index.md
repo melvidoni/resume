@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Lecturer at RMIT CS/SE"
+role: "Lecturer at RMIT Computing Technologies"
 
 # Organizations/Affiliations
 organizations:
@@ -20,11 +20,11 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Information Systems Engineering, Lecturer at RMIT Computer Science/Software Engineering. Associate Editor of rOpenSci.
+bio: PhD in Information Systems Engineering, Lecturer at RMIT School of Computing Technologies. Associate Editor of rOpenSci.
 
 interests:
 - Empirical Software Engineering
-- Requirements Engineering
+- Technical Debt
 - Agile Methodologies
 - Operational Research
 

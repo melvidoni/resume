@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Lecturer"
-  company = "RMIT University, School of Science, Computer Science and Software Engineering"
+  company = "RMIT University, School of Computing Technologies"
   company_url = "https://www.rmit.edu.au/about/schools-colleges/science"
   location = "Melbourne, Australia"
   date_start = "2019-05-01"
