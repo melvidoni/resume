@@ -4,7 +4,7 @@ abstract: "Advanced Planning Systems (APS) have become an important tool for man
 authors: ["Melina Vidoni", "Aldo Vecchietti"]
 date: "2015-12-01T00:00:00Z"
 image_preview: ""
-math: true
+math: false
 publication_types: ["3"]
 publication: "In *Computers & Industrial Engineering*. Vol. 90, pp326-338"
 publication_short: "*Computers & Industrial Engineering*. Vol. 90, pp326-338"

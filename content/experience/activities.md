@@ -50,8 +50,8 @@ weight = 30
 **Experience as Supervisor**
 
 - Miss Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Quality Attributes in Intelligent Agent Systems.
-- Miss Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Maintenance goals performance in Intelligent Agent Systems.
-- Supervised Master by Research Thesis (3) in Argentina, as main supervisor and co-supervisor.
+- Miss Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Maintenance goals performance in Intelligent Agent Systems._
+- Supervised Master by Research Thesis (3) in Argentina, as main supervisor and co-supervisor. **Status:** Completed, 9/10.
 
 
 </br>
