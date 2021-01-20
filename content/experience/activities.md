@@ -27,31 +27,9 @@ weight = 30
 
 **Leadership Experience**
 
-- Women in Computer Science, Software Engineering, Games and IT Champion, for RMIT University's Disciplines of Computer Science & Software Engineering, and IT (2020-present).
+- Women in Computer Science, Software Engineering, Games and IT Champion, for RMIT University's Disciplines of Computer Science & Software Engineering, and IT (2020).
 - Founder and Main-Organiser of [R-Ladies Santa Fe](https://www.meetup.com/en-AU/rladies-santa-fe/) (2018).
 - Organising Committee Member of [Latinamerican Conference About the Use of R in R&D (LatinR 2018)](http://latin-r.com/equipo/).
-
-
-
-</br>
-
-**Peer-Review and Editorial Experience**
-
-- Associate Editor of [rOpenSci Software Peer Review](https://ropensci.org/blog/2019/01/31/more_editors/) (2018-present).
-- Peer Review for the AnitaB.org "Pass It On" Awards (2019)
-- Peer review activities visible on my [verified Publons profile](https://publons.com/researcher/1234715/melina-vidoni/peer-review/).
-- PC member of Latinamerican Conference About the Use of R in R&D (LatinR 2019).
-- PC member of [21st International Conference on Enterprise Information Systems (ICEIS 2019)](http://www.iceis.org/ProgramCommittee.aspx?y=2019).
-- PC member of [20th International Conference on Enterprise Information Systems (ICEIS 2018)](http://www.iceis.org/ProgramCommittee.aspx?y=2018).
-
-
-</br>
-
-**Experience as Supervisor**
-
-- Miss Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Quality Attributes in Intelligent Agent Systems.
-- Miss Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Maintenance goals performance in Intelligent Agent Systems._
-- Supervised Master by Research Thesis (3) in Argentina, as main supervisor and co-supervisor. **Status:** Completed, 9/10.
 
 
 </br>
