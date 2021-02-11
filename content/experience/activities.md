@@ -14,6 +14,7 @@ weight = 30
 
 **Talks and Workshops**
 
+- Invited Talk "Unit Testing Practices in R Programming", at Monash University. Invited and hosted by Dr Chakkrit Tantithamthavorn. Melbourne, Australia (February 11th, 2021).
 - Invited Talk "Software Engineering Process & Techniques in Operational Research", at Monash University. Invited and hosted by Prof Grundy. Melbourne, Australia (March 11th, 2020).
 - [Poster & Lightning Talk](http://www.acsw.org.au/2020-posters) at Australasian Computer Science Week 2020, Swimburne University. Melbourne, Australia (February 2019).
 - [Invited Talk](https://www.meetup.com/en-AU/rladies-melbourne/events/262566179/) at R-Ladies Melbourne (July 2019): "Open Science through rOpenSci".

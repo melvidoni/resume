@@ -8,7 +8,7 @@ math: false
 publication_types: ["3"]
 publication: "In *Computers & Industrial Engineering*. Vol. 90, pp326-338"
 publication_short: "*Computers & Industrial Engineering*. Vol. 90, pp326-338"
-featured: true
+featured: false
 title: "A systemic approach to define and characterize Advanced Planning Systems (APS)"
 url_code: ""
 url_dataset: ""
