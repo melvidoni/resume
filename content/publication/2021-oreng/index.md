@@ -17,7 +17,7 @@ url_pdf: "https://www.tandfonline.com/eprint/XX7APKT79WW6CWBK4Q9S/full?target=10
 url_project: ""
 url_slides: ""
 url_video: ""
-doi: "https://doi.org/10.1080/01605682.2020.1865848"
+doi: "10.1080/01605682.2020.1865848"
  
 image:
   caption: ""
