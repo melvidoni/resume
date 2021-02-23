@@ -17,7 +17,7 @@ publication_types: ["5"]
 publication: "In *RMIT Insight Series*"
 publication_short: "In *RMIT Insight Series*"
 
-featured: true
+featured: false
 
 url_code: ""
 url_dataset: ""
