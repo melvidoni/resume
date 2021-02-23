@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "In *Mining Software Repositories 2021*"
 publication_short: "MSR 2021 [Preprint]"
 featured: true
-title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study"
+title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study [Preprint]"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
@@ -38,8 +38,17 @@ url_custom:
   
   
 # Projects (optional).
-projects: ["2020-rse"]
+#projects: ["2020-rse"]
   
+
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- 2020-rse
 
 ---
 

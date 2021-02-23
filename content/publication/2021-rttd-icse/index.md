@@ -59,7 +59,7 @@ The main contributions of this study are as follows:
 
 ## Ethical Considerations
 
-The methodology used in this manuscript, and described in the sections below, was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-22968-10378.
+The methodology used in this manuscript, and described in the sections below, was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-22968.
 
 
 <br />
