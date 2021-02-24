@@ -12,10 +12,10 @@ publication_short: "ICSE 2021 [Preprint]"
 featured: true
 title: "Evaluating Unit Testing Practices in R Packages [Preprint]"
 url_code: ""
-url_dataset: "https://drive.google.com/drive/folders/1WY947B7Od5Q3IF0bVyixo5M218oXSs5J?usp=sharing"
+url_dataset: "http://doi.org/10.5281/zenodo.4558438"
 url_pdf: "publication/2021-rttd-icse.pdf"
 url_project: ""
-url_slides: ""
+url_slides: "publication/2021-rttd-icse-slides.pdf"
 url_video: ""
 
  
