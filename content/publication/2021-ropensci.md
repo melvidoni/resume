@@ -20,8 +20,8 @@ publication_short: "MSR 2021 [Preprint]"
 featured: true
 title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study [Preprint]"
 url_code: ""
-url_dataset: ""
-url_pdf: ""
+url_dataset: "http://doi.org/10.5281/zenodo.4589573"
+url_pdf: "publication/2021-msr-ropensci.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
@@ -66,7 +66,7 @@ The main contributions of this study are as follows:
 
 - We propose a taxonomy of TD, extended to incorporate specific concepts related to R packages.
 
-- A dataset of manually labelled TD instances in R  peer-reviews documentation is made available publicly. 
+- A dataset of manually labelled TD instances in R  peer-reviews documentation is made available publicly. Available [here](http://doi.org/10.5281/zenodo.4589573).
 
 
 
@@ -83,4 +83,5 @@ The methodology used in this manuscript, and described in the sections below, wa
 
 ## Acknowledgements
 
-We kindly thank Scott Chamberlain, Noam Ross and Karthik Ram, Associate Editors of rOpenSci, who enabled us to conduct this study.  We also gratefully acknowledge the anonymous reviewers, whose insight and critique helped improve the quality of this work.
+We kindly thank Scott Chamberlain, Noam Ross and Karthik Ram, Associate Editors of rOpenSci, who enabled us to conduct this study. We also gratefully acknowledge the anonymous reviewers, whose insight and critique helped improve the quality of this work. This work is partially supported by Natural Sciences and Engineering
+Research Council of Canada RGPIN-2019-05175.
