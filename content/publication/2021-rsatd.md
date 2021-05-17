@@ -7,10 +7,10 @@ authors: ["Melina Vidoni"]
 date: "2021-02-23T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "In *Mining Software Repositories 2021*"
-publication_short: "MSR 2021 [Preprint]"
+publication: "M.  Vidoni, 'Self-Admitted Technical Debt in R Packages: An Exploratory Study', in IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 179-189. DOI:  10.1109/MSR52588.2021.00030"
+publication_short: "MSR 2021"
 featured: true
-title: "Self-Admitted Technical Debt in R Packages: An Exploratory Study [Preprint]"
+title: "Self-Admitted Technical Debt in R Packages: An Exploratory Study"
 url_code: ""
 url_dataset: "https://doi.org/10.5281/zenodo.4558219"
 url_pdf: "publication/2021-rsatd-msr.pdf"
@@ -26,7 +26,7 @@ image:
 
 url_custom:
   name: "DOI"
-  url: ""
+  url: "https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00030"
   
   
 # Projects (optional).
@@ -66,3 +66,23 @@ The methodology used in this manuscript was approved by RMIT University Human Et
 ## Acknowledgements
 
 The author acknowledges Associate Professor John Ormerod from the School of Mathematics and Statistics at the University of Sydney (Australia) for his assistance when calculating the sample sizes for the survey. Additionally, the author thanks the developers who participated in the surveys and the volunteers advising on the pre-classification. Finally, the author is grateful to the anonymous reviewers for their careful reading of the manuscript and their insightful comments and suggestions.
+
+
+
+## Citation
+```
+@INPROCEEDINGS {Vidoni2021b,
+author = {M.  Vidoni},
+booktitle = {2021 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR) (MSR)},
+title = {Self-Admitted Technical Debt in R Packages: An Exploratory Study},
+year = {2021},
+volume = {},
+issn = {},
+pages = {179-189},
+keywords = {mining software repositories;r programming;technical debt;self-admitted technical debt;developers survey},
+doi = {10.1109/MSR52588.2021.00030},
+url = {https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00030},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}
+```

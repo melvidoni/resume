@@ -62,3 +62,23 @@ The main contributions of this study are as follows:
 ## Acknowledgements
 
 The author also gratefully acknowledges the editors and anonymous reviewers of the manuscript for their thorough reading, thoughtful and insightful comments and suggestions. The author is especially thankful to Prof. Richard Ormerod for his contributions and insights, and to Prof. Aldo Vecchietti, that fostered the interest in this topic.
+
+
+<br />
+
+## Citation
+```
+@article{Vidoni2021c,
+author = {Melina Vidoni},
+title = "{Beyond Hard and Soft OR: Operational Research from a Software Engineering Perspective}"",
+journal = {Journal of the Operational Research Society},
+volume = {0},
+number = {0},
+pages = {1-23},
+year  = {2021},
+publisher = {Taylor & Francis},
+doi = {10.1080/01605682.2020.1865848},
+URL = {https://doi.org/10.1080/01605682.2020.1865848},
+eprint = {https://doi.org/10.1080/01605682.2020.1865848}
+}
+```

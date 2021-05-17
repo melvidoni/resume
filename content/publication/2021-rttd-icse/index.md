@@ -7,10 +7,10 @@ authors: ["Melina Vidoni"]
 date: "2020-12-16T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "In *International Conference on Software Engineering 2021*"
-publication_short: "ICSE 2021 [Preprint]"
+publication: "M. Vidoni, 'Evaluating Unit Testing Practices in R Packages' 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 1523-1534, doi: 10.1109/ICSE43902.2021.00136."
+publication_short: "ICSE 2021"
 featured: true
-title: "Evaluating Unit Testing Practices in R Packages [Preprint]"
+title: "Evaluating Unit Testing Practices in R Packages"
 url_code: ""
 url_dataset: "http://doi.org/10.5281/zenodo.4558438"
 url_pdf: "publication/2021-rttd-icse.pdf"
@@ -26,7 +26,7 @@ image:
 
 url_custom:
   name: "DOI"
-  url: ""
+  url: "https://doi.org/10.1109/ICSE43902.2021.00136"
   
   
 # Projects (optional).
@@ -69,3 +69,21 @@ The methodology used in this manuscript, and described in the sections below, wa
 
 The author thanks Associate Professor John Ormerod, from the School of Mathematics and Statistics at University of Sydney (Australia),
 for his assistance when calculating the sample sizes for the manual analysis of the data extracted. The author also gratefully acknowledges the anonymous reviewers for their careful reading of the manuscript and their insightful comments and suggestions, as well as the R developers who participated in the survey.
+
+
+<br />
+
+
+## Citation:
+
+```
+@INPROCEEDINGS{Vidoni2021,
+  author={Vidoni, Melina},
+  booktitle={2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)}, 
+  title={Evaluating Unit Testing Practices in R Packages}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1523-1534},
+  doi={10.1109/ICSE43902.2021.00136}}
+```

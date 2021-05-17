@@ -15,10 +15,10 @@ authors: ["Zadia Codabux", "Melina Vidoni", "Fatemeh Fard"]
 date: "2021-02-23T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "In *Mining Software Repositories 2021*"
+publication: "Z. Codabux, M. Vidoni and F. Fard, 'Technical Debt in the Peer-Review Documentation of R Packages: A rOpenSci Case Study', in 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR). DOI: /10.1109/MSR52588.2021.00032"
 publication_short: "MSR 2021 [Preprint]"
 featured: true
-title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study [Preprint]"
+title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study"
 url_code: ""
 url_dataset: "http://doi.org/10.5281/zenodo.4589573"
 url_pdf: "publication/2021-msr-ropensci.pdf"
@@ -34,7 +34,7 @@ image:
 
 url_custom:
   name: "DOI"
-  url: ""
+  url: "https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00032"
   
   
 # Projects (optional).
@@ -85,3 +85,24 @@ The methodology used in this manuscript, and described in the sections below, wa
 
 We kindly thank Scott Chamberlain, Noam Ross and Karthik Ram, Associate Editors of rOpenSci, who enabled us to conduct this study. We also gratefully acknowledge the anonymous reviewers, whose insight and critique helped improve the quality of this work. This work is partially supported by Natural Sciences and Engineering
 Research Council of Canada RGPIN-2019-05175.
+
+
+
+<br />
+
+## Citations
+
+```
+@INPROCEEDINGS {Codabux2021,
+author = {Z. Codabux and M. Vidoni and F. H. Fard},
+booktitle = {2021 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR)},
+title = {Technical Debt in the Peer-Review Documentation of R Packages: A rOpenSci Case Study},
+year = {2021},
+pages = {195-206},
+keywords = {technical debt;r programming;ropensci;technical debt taxonomy;mining software repositories},
+doi = {10.1109/MSR52588.2021.00032},
+url = {https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00032},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+}
+```
