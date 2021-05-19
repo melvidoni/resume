@@ -18,8 +18,11 @@ weight = 15
 
 _2021_
 
-- Program Committee member of [ICSME 2021 (International Conference on Software Maintenance and Evolution), Main Research Track](https://icsme2021.github.io/).
+- Program Committee member of [ICSME 2021 (International Conference on Software Maintenance and Evolution), Main Research Track](https://icsme2021.github.io/ProgramCommittee.html).
 - Program Committee member of [ASE 2021 (Automated Software Engineering), Late Breaking Results (LBR) track](https://conf.researchr.org/committee/ase-2021/ase-2021-late-breaking-results-program-committee).
+- Program Committee member of [ACM WomENCOURAGE 2021, Poster Session](https://womencourage.acm.org/2021/poster-evaluation-committee/).
+
+
 
 _2020_
 
@@ -36,6 +39,6 @@ _2020_
 **Other Peer-Review Activities**
 
 - Associate Editor of [rOpenSci Software Peer Review](https://ropensci.org/blog/2019/01/31/more_editors/) (2018-present).
-- Peer Review for the AnitaB.org "Pass It On" Awards (2019)
+- Peer Reviewer for the AnitaB.org "Pass It On" Awards (2019)
 
 

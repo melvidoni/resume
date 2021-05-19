@@ -1,22 +1,22 @@
 ---
-abstract: "**Context:** Technical Debt (TD) is a metaphor used to describe code that is not quite right. Although TD studies have gained momentum, TD has yet to be studied as thoroughly in non-object-oriented or scientific software such as R. R is a multi-paradigm programming language, whose popularity in data science and statistical applications has amplified in recent years. Due to R's inherent ability to expand through user-contributed packages, several community-led organizations were created to organize and peer-review packages in a concerted effort to increase their quality. Nonetheless, it is well-known that most R users do not have a technical programming background, being from multiple disciplines. 
+abstract: "**Context:** Technical Debt (TD) is a metaphor used to describe code that is not quite right. Although TD studies have gained momentum, TD has yet to be studied as thoroughly in non-object-oriented or scientific software such as R. R is a multi-paradigm programming language, whose popularity in data science and statistical applications has amplified in recent years. Due to R's inherent ability to expand through user-contributed packages, several community-led organizations were created to organize and peer-review packages in a concerted effort to increase their quality. Nonetheless, it is well-known that most R users do not have a technical programming background, being from multiple disciplines.<br /> 
 
-**Objective:** The goal of this study is to investigate TD in the documentation of the peer-review of R packages led by rOpenSci. 
+**Objective:** The goal of this study is to investigate TD in the documentation of the peer-review of R packages led by rOpenSci.<br /> 
 
-**Method:** We collected over 5,000 comments from 157 packages that had been reviewed and approved to be published at rOpenSci. We manually analyzed a sample dataset of these comments posted by package authors, editors of rOpenSci, and reviewers during the review process to investigate the types of TD present in these reviews. 
+**Method:** We collected over 5,000 comments from 157 packages that had been reviewed and approved to be published at rOpenSci. We manually analyzed a sample dataset of these comments posted by package authors, editors of rOpenSci, and reviewers during the review process to investigate the types of TD present in these reviews.<br /> 
 
-**Results:** The findings of our study include (i) a taxonomy of TD  derived from our analysis of the peer-reviews (ii) documentation debt as being the most prevalent type of debt (iii) different user roles are concerned with different types of TD. For instance, reviewers tend to report some types of TD more than other roles, and the types of TD they report are different from those reported by the authors of a package. 
+**Results:** The findings of our study include (i) a taxonomy of TD  derived from our analysis of the peer-reviews (ii) documentation debt as being the most prevalent type of debt (iii) different user roles are concerned with different types of TD. For instance, reviewers tend to report some types of TD more than other roles, and the types of TD they report are different from those reported by the authors of a package.<br /> 
 
 **Conclusion:** TD analysis in scientific software or peer-review is almost non-existent. Our study is a pioneer, but within the context of R packages. However, our findings can serve as a starting point for replication studies, given our public datasets, to perform similar analyses in other scientific software or to investigate the rationale behind our findings."
 
 
 
 authors: ["Zadia Codabux", "Melina Vidoni", "Fatemeh Fard"]
-date: "2021-02-23T00:00:00Z"
+date: "2021-05-07T00:00:00Z"
 math: true
 publication_types: ["1"]
 publication: "Z. Codabux, M. Vidoni and F. Fard, 'Technical Debt in the Peer-Review Documentation of R Packages: A rOpenSci Case Study', in 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR). DOI: /10.1109/MSR52588.2021.00032"
-publication_short: "MSR 2021 [Preprint]"
+publication_short: "MSR 2021"
 featured: true
 title: "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study"
 url_code: ""
@@ -26,15 +26,18 @@ url_project: ""
 url_slides: ""
 url_video: ""
 
+
+
+links:
+- name: "DOI"
+  url: "https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00032"
+
  
 image:
   caption: ""
   focal_point: "Left"
   preview_only: true
 
-url_custom:
-  name: "DOI"
-  url: "https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00032"
   
   
 # Projects (optional).

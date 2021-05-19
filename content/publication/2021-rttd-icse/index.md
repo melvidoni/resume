@@ -4,7 +4,7 @@ abstract: "Testing Technical Debt (TTD) occurs due to shortcuts (non-optimal dec
 
 
 authors: ["Melina Vidoni"]
-date: "2020-12-16T00:00:00Z"
+date: "2021-05-07T00:00:00Z"
 math: true
 publication_types: ["1"]
 publication: "M. Vidoni, 'Evaluating Unit Testing Practices in R Packages' 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), 2021, pp. 1523-1534, doi: 10.1109/ICSE43902.2021.00136."
@@ -15,8 +15,8 @@ url_code: ""
 url_dataset: "http://doi.org/10.5281/zenodo.4558438"
 url_pdf: "publication/2021-rttd-icse.pdf"
 url_project: ""
-url_slides: "publication/2021-rttd-icse-slides.pdf"
 url_video: ""
+doi: "10.1109/ICSE43902.2021.00136"
 
  
 image:
@@ -24,13 +24,11 @@ image:
   focal_point: "Left"
   preview_only: true
 
-url_custom:
-  name: "DOI"
-  url: "https://doi.org/10.1109/ICSE43902.2021.00136"
   
   
 # Projects (optional).
-projects: ["2020-rse"]
+projects:
+- 2020-rse
   
 
 ---

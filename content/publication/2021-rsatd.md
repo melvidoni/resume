@@ -4,7 +4,7 @@ abstract: "Self-Admitted Technical Debt (SATD) is a particular case of Technical
 
 
 authors: ["Melina Vidoni"]
-date: "2021-02-23T00:00:00Z"
+date: "2021-05-07T00:00:00Z"
 math: true
 publication_types: ["1"]
 publication: "M.  Vidoni, 'Self-Admitted Technical Debt in R Packages: An Exploratory Study', in IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 179-189. DOI:  10.1109/MSR52588.2021.00030"
@@ -24,13 +24,14 @@ image:
   focal_point: "Left"
   preview_only: true
 
-url_custom:
-  name: "DOI"
+links:
+- name: "DOI"
   url: "https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00030"
   
   
 # Projects (optional).
-projects: ["2020-rse"]
+projects: 
+- 2020-rse
   
 
 ---
@@ -79,7 +80,6 @@ year = {2021},
 volume = {},
 issn = {},
 pages = {179-189},
-keywords = {mining software repositories;r programming;technical debt;self-admitted technical debt;developers survey},
 doi = {10.1109/MSR52588.2021.00030},
 url = {https://doi.ieeecomputersociety.org/10.1109/MSR52588.2021.00030},
 publisher = {IEEE Computer Society},

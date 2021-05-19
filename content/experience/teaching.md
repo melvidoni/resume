@@ -16,8 +16,8 @@ weight = 20
 
 Current Courses (Active):
 
-- [Software Engineering Fundamentals (ISYS1118, ISYS1117)](http://www1.rmit.edu.au/courses/004309) - Bachelor of Computer Science, and Bachelor of Software Engineering. Role: Course Coordinator. Students numbers: 200+ in 2020-S1/2, 550+ in 2021-S1.
-- [Object Oriented Software Design (ISYS1083, ISYS1084)]() - Bachelor of Computer Science, Bachelor of Software Engineering. Role: Course Coordinator. Student numbers: 150+ in 2021-S1.
+- [Software Engineering Fundamentals (ISYS1118, ISYS1117, ISYS 3413)](http://www1.rmit.edu.au/courses/004309) - Bachelor of Computer Science, and Bachelor of Software Engineering. Role: Course Coordinator. Students numbers: 200+ in 2020-S1/2, 550+ in 2021-S1/2.
+- [Object Oriented Software Design (ISYS1083, ISYS1084)](v) - Bachelor of Computer Science, Bachelor of Software Engineering. Role: Course Coordinator. Student numbers: 150+ in 2021-S1.
 
 
 
@@ -42,8 +42,10 @@ Previous Courses. I am no longer part of the teaching team:
 
 </br>
 
-**Honours Supervision**
+**Honours & (Research) Capstones Supervision**
 
-- Miss Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020 (in progress). Topic: Quality Attributes in Intelligent Agent Systems.
-- Miss Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Maintenance goals performance in Intelligent Agent Systems._ **Status:** Completed, 9/10.
+- Pranjay Kumar, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Mining CRAN Discussions from Stack Overflow_. **Status:** In Progress.
+- Davin Ie, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Analysing SATD in R Packages to Uncover CRAN Smells_. **Status:** In Progress.
+- Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Quality Attributes in Intelligent Agent Systems._ - **Status:** Completed, 8/10.
+- Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Maintenance goals performance in Intelligent Agent Systems._ **Status:** Completed, 9/10.
 
