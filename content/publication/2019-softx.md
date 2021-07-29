@@ -24,3 +24,40 @@ url_video: ""
 doi: "10.1016/j.softx.2019.03.004"
 
 ---
+
+
+## Acknowledgements
+
+The authors gratefully acknowledge the financial support for the work presented in this article to Universidad Tecnológica Nacional (UTN), Argentina through PID EIUTIFE0003974TC. Also, the authors appreciatively recognise the extraordinary efforts of the anonymous reviewers for their suggestions for improving the read of the article and the quality of the code.
+
+
+
+<br />
+
+## Citation
+
+```
+@article{Vidoni2019,
+title = {“rsppfp”: An R package for the shortest path problem with forbidden paths},
+journal = {SoftwareX},
+volume = {9},
+pages = {265-270},
+year = {2019},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2019.03.004},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711018300955},
+author = {Melina Vidoni and Aldo Vecchietti},
+keywords = {R package, Shortest path, Forbidden paths, Network flows},
+}
+```
+
+
+
+
+<br />
+
+### Venue Impact
+
+The following is the venue impact, according to Scimago Journal Ranking:
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100422153&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100422153" alt="SCImago Journal &amp; Country Rank"  /></a>

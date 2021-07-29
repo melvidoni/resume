@@ -17,7 +17,7 @@ featured: false
 
 url_code: "https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijise"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "pdf/2020-apsarchitecture.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
@@ -28,3 +28,24 @@ doi: "10.1504/IJISE.2020.10024547"
 projects: ["2013-thesis"]
 
 ---
+
+
+
+
+### Citation
+
+```
+@article{Vidoni2020,
+author = {Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title = {Analysis, design and development of advanced planning systems},
+journal = {International Journal of Industrial and Systems Engineering},
+volume = {36},
+number = {3},
+pages = {361-383},
+year  = {2020},
+publisher = {Inderscience Publishers},
+doi = {10.1504/IJISE.2020.110937},
+URL = {https://www.inderscience.com/info/inarticle.php?artid=110937}
+}
+```
+

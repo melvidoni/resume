@@ -82,3 +82,13 @@ URL = {https://doi.org/10.1080/01605682.2020.1865848},
 eprint = {https://doi.org/10.1080/01605682.2020.1865848}
 }
 ```
+
+
+
+<br />
+
+### Venue Impact
+
+The following is the venue impact, according to Scimago Journal Ranking:
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=22236&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=22236" alt="SCImago Journal &amp; Country Rank"  /></a>

@@ -23,3 +23,37 @@ doi: "10.1016/j.compind.2015.07.011"
 projects: ["2013-thesis"]
 
 ---
+
+### Acknowledgements
+
+The authors gratefully acknowledge the financial support for the work presented in this article to CONICET through Project PIP 688, ANPCYT with grant PICT2012 2484 and Universidad Tecnológica Nacional through PID 25/O152.
+
+
+<br />
+
+
+### Citation
+
+```
+@article{Vidoni2015b,
+title = {An intelligent agent for ERP's data structure analysis based on ANSI/ISA-95 standard},
+journal = {Computers in Industry},
+volume = {73},
+pages = {39-50},
+year = {2015},
+issn = {0166-3615},
+doi = {https://doi.org/10.1016/j.compind.2015.07.011},
+url = {https://www.sciencedirect.com/science/article/pii/S0166361515300294},
+author = {Melina C. Vidoni and Aldo R. Vecchietti},
+keywords = {ERP, Intelligent agent, Standard, ANSI/ISA-95, Manufacturing information},
+}
+```
+
+
+<br />
+
+### Venue Impact
+
+The following is the venue impact, according to Scimago Journal Ranking:
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=19080&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19080" alt="SCImago Journal &amp; Country Rank"  /></a>

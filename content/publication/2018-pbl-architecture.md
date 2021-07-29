@@ -12,8 +12,8 @@ featured: false
 title: "Project and Team-Based Strategies for Teaching Software Architecture"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://www.ijee.ie/contents/c340518.html"
-url_project: ""
+url_pdf: "pdf/2018-pblpaper.pdf"
+url_project: "https://www.ijee.ie/contents/c340518.html"
 url_slides: ""
 url_video: ""
 
@@ -22,3 +22,19 @@ projects: ["2013-thesis"]
 
 ---
 
+
+
+
+### Acknowledgements
+
+The authors gratefully acknowledge the financial support for the work presented in this article to
+Universidad Tecnolo´gica Nacional (UTN) through PID EIUTIFE0003974TC and PID EIUTIFE0003960TC. Also, the authors thankful Prof. Juan Carlos Ramos for his cooperation in this experiment on the ‘Architecture Based Software Design’ course at UTN-FRSF.
+
+
+<br />
+
+### Venue Impact
+
+The following is the venue impact, according to Scimago Journal Ranking:
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=12345&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12345" alt="SCImago Journal &amp; Country Rank"  /></a>

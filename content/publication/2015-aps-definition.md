@@ -23,3 +23,39 @@ doi: "10.1016/j.cie.2015.10.006"
 projects: ["2013-thesis"]
 
 ---
+
+
+
+### Acknowledgements
+
+The authors gratefully acknowledge the financial support for the work presented in this article to CONICET through Project PIP 688, ANPCyT with Grant PICT2012 2484 and Universidad Tecnológica Nacional through PID 25/O152.
+
+
+<br />
+
+
+### Citation
+
+```
+@article{Vidoni2015a,
+title = {A systemic approach to define and characterize Advanced Planning Systems (APS)},
+journal = {Computers & Industrial Engineering},
+volume = {90},
+pages = {326-338},
+year = {2015},
+issn = {0360-8352},
+doi = {https://doi.org/10.1016/j.cie.2015.10.006},
+url = {https://www.sciencedirect.com/science/article/pii/S036083521500399X},
+author = {Melina C. Vidoni and Aldo R. Vecchietti},
+keywords = {ERP, APS, Advanced Planning System, Requirements, Architecture},
+}
+```
+
+
+<br />
+
+### Venue
+
+Venue ranking, according to Scimago Journal Rankings:
+
+<a href="https://www.scimagojr.com/journalsearch.php?q=18164&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=18164" alt="SCImago Journal &amp; Country Rank"  /></a>
