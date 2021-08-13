@@ -44,8 +44,8 @@ Previous Courses. I am no longer part of the teaching team:
 
 **Honours & (Research) Capstones Supervision**
 
-- Pranjay Kumar, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Mining CRAN Discussions from Stack Overflow_. **Status:** In Progress.
-- Davin Ie, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Analysing SATD in R Packages to Uncover CRAN Smells_. **Status:** In Progress.
+- Pranjay Kumar, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Mining CRAN Discussions from Stack Overflow_. **Status:** Graduated (HD).
+- Davin Ie, Bachelor of Computer Science (Capstone), at RMIT Univeristy. Year 2021. **Topic:** _Analysing SATD in R Packages to Uncover CRAN Smells_. **Status:** Graduated (HD).
 - Sarah Sukamto, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Quality Attributes in Intelligent Agent Systems._ - **Status:** Completed, 8/10.
 - Sefira Karina, Bachelor of Computer Science (Hons), at RMIT University. Year: 2020. **Topic:** _Maintenance goals performance in Intelligent Agent Systems._ **Status:** Completed, 9/10.
 
