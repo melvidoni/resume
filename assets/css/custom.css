@@ -26,16 +26,20 @@
   font-size: 0.95em !important;
 }
 
+a:hover, a:focus {
+  color: #9DE0AD;
+}
+
 a,
 h3.article-title a:hover {
-  color: #6f4402;
+  color: #45ADA8;
+}
+
+.col-12 p a:hover {
+  color: #339590 !important;
 }
 
 
-a:hover,
-a:focus {
-  color: #d8a623;
-}
 
 #profile .portrait-title h3[itemprop="jobTitle"] {
     font-size: 1.15rem;
@@ -50,7 +54,7 @@ ul.network-icon li a i {
 }
 
 ul.network-icon li a i:hover {
-  color: #a71501 !important;
+  color: #4B7DA8 !important;
 }
 
 .logoimg {
@@ -107,7 +111,7 @@ ul.network-icon li a i:hover {
 
 
 .article-metadata a:hover {
-  color: #6f4402;
+  color: #45ADA8;
 }
 
 
@@ -130,7 +134,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
  **************************************************/
 
 .btn-primary {
-  border-color: #a71501;
+  border-color: #4B7DA8;
 }
 
 .btn-primary:hover,
@@ -139,8 +143,8 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary,
 .btn-outline-primary:hover {
-  background: #a71501;
-  border-color: #a71501;
+  background: #4B7DA8;
+  border-color: #4B7DA8;
 }
 
 
@@ -150,20 +154,20 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 
 
 .btn-primary.btn-outline, .btn-outline-primary {
-  color: #a71501;
-  border-color: #a71501;
+  color: #4B7DA8;
+  border-color: #4B7DA8;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
-  background-color: #a71501;
-  border-color: #a71501;
+  background-color: #4B7DA8;
+  border-color: #4B7DA8;
   color: #ffffff;
   box-shadow: 0 0 0 0 #ffffff;
 }
 
 .btn-outline-primary.focus, .btn-outline-primary:focus {
     box-shadow: 0 0 0 0 #ffffff;
-    color: #a71501;
+    color: #4B7DA8;
 }
 
 
@@ -172,7 +176,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
  *  Posts
  **************************************************/
 .media-body .article-title a {
-    color: #a71501 !important;
+    color: #4B7DA8 !important;
 }
 
 
@@ -188,7 +192,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 
 
 .article-title a:hover {
-    color: #a71501 !important;
+    color: #4B7DA8 !important;
 }
 
 .media.stream-item .stream-meta {
@@ -201,7 +205,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
  *  Forms
  **************************************************/
 .form-control:focus {
-    border-color: #a71501;
+    border-color: #4B7DA8;
     box-shadow: 0 0 0 0rem #ffffff;
 }
 
@@ -213,7 +217,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #6f4402;
+  color: #45ADA8;
   font-weight: 400;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -227,7 +231,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 .dropdown-menu > .active > a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #6f4402;
+  background-color: #45ADA8;
   outline: 0;
 }
 
@@ -239,8 +243,9 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 
 
 .navbar-light .navbar-nav>li.nav-item>a.active, .navbar-light .navbar-nav>li.nav-item>a.active:focus, .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-    color: #d8a623;
+    color: #9DE0AD;
 }
+
 
 .navbar-brand {
   color: #ffffff !important;
@@ -251,7 +256,7 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #6f4402;
+    color: #45ADA8;
     background-color: transparent;
   }
 
@@ -268,12 +273,12 @@ table > tbody > tr:nth-child(odd) > td, table > tbody > tr:nth-child(odd) > th, 
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #a71501 !important;
+  background-color: #4B7DA8 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #a71501 !important;
+  background-color: #4B7DA8 !important;
   box-shadow: 0 0 0 0 #ffffff !important;
 }
 
@@ -308,7 +313,7 @@ div.article-style > pre > code.hljs {
 }
 
 .hljs-string {
-  color: #a71501 !important;
+  color: #4B7DA8 !important;
 }
 
 
