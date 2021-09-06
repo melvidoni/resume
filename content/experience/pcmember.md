@@ -18,8 +18,8 @@ weight = 15
 
 _2022_
 
-- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track]().
-
+- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee).
+- Journal of Systems and Sosftware Open Science Board member, since September 2021.
 
 
 _2021_
