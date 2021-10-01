@@ -25,8 +25,9 @@ bio: PhD in Information Systems Engineering, Lecturer at RMIT School of Computin
 interests:
 - Empirical Software Engineering
 - Technical Debt
-- Agile Methodologies
-- Operational Research
+- Data Science
+- Scientific Software
+- Mining Software Repositories
 
 
 education:
@@ -84,8 +85,6 @@ Dr Vidoni is a Lecturer (tenured Assistant Professor) at the School of Computing
 
 From 2013 to early 2019, she held a PhD scholarship and a Postdoc position at [INGAR CONICET-UTN](http://www.ingar.santafe-conicet.gov.ar/), under the supervision of Prof. Aldo Vecchietti. During 2018, Dr Vidoni was an Assistant Lecturer at [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/), in Santa Fe (Argentina), at the [Department of Information Systems Engineering](https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-en-sistemas-de-informacion). On the same year, she funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/).
 
-Dr Vidoni's main research interests are mining software repositories, technical debt, agile methodologies and software development; empirical software engineering when applied to data science. Dr Vidoni also enjoys working on inter-disciplinary teams, and is currently part of international collaborations with researchers from Germany, Canada and Argentina.
+Dr Vidoni's main research interests are mining software repositories, technical debt and software development; empirical software engineering when applied to data science and scientific software. Dr Vidoni also enjoys working on inter-disciplinary teams, and is currently part of international collaborations with researchers from Germany and Canada.
 
 <br/>
-
-_Dr Vidoni is actively recruiting HDR students; this includes Master by Research and PhD; also looking for Honours students. Please write an email if you are interested and have strong interests in my areas of research._
