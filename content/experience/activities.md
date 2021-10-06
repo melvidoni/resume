@@ -6,7 +6,7 @@ title = "Other Activities"
 subtitle = "Academic activities I have been part of."
 
 # Order that this section will appear in.
-weight = 30
+weight = 15
 
 +++
 
@@ -14,7 +14,7 @@ weight = 30
 
 **Talks and Workshops**
 
-- Invited Talk. "TechDebt in R: What your (Unit) Tests and Comments Say About Your R Package Code", at Monash University (NUMBAT seminar). Hosted by Stuart Lee, Diane Cook.
+- Invited Talk. "TechDebt in R: What your (Unit) Tests and Comments Say About Your R Package Code", at Monash University (NUMBAT seminar). Hosted by Stuart Lee, Dianne Cook.
 - Invited Talk. "Unit Testing Practices in R Programming", at Monash University. Invited and hosted by Dr Chakkrit Tantithamthavorn. Melbourne, Australia (February 11th, 2021).
 - Invited Talk "Software Engineering Process & Techniques in Operational Research", at Monash University. Invited and hosted by Prof Grundy. Melbourne, Australia (March 11th, 2020).
 - [Poster & Lightning Talk](http://www.acsw.org.au/2020-posters) at Australasian Computer Science Week 2020, Swimburne University. Melbourne, Australia (February 2019).

@@ -3,10 +3,10 @@
 widget = "experience"
 headless = true 
 active = true 
-weight = 2 
+weight = 10 
 
 title = "Experience"
-subtitle = "Past experiences and positions in the Academic Field only."
+subtitle = "Past positions and positions in the Academia."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,23 +17,45 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+
 [[experience]]
-  title = "Lecturer"
+  title = "Lecturer (eq. Assistant Professor)"
+  company = "Australian National University, School of Computing"
+  company_url = "https://cs.anu.edu.au/"
+  location = "Canberra, Australia"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = """
+
+  Responsibilities include:
+  
+  - Research in a range of topics focused in empirical Software Engineering and Technical Debt, in Data Science and Scientific Software.
+
+  """
+
+
+
+
+
+[[experience]]
+  title = "Lecturer (eq. Assistant Professor)"
   company = "RMIT University, School of Computing Technologies"
   company_url = "https://www.rmit.edu.au/about/schools-colleges/science"
   location = "Melbourne, Australia"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2021-10-15"
   description = """
+
+  Responsibilities included:
   
-  This position is permanent, and is equivalent to assistant professor (ternured) in USA. 
-  
-  Responsibilities include:
-  
-  - Research. Range of topics focused in empirical Software Engineering, Requirements Egineering, Software Development, and Agile Methodologies.
-  - Teaching (refer to [teaching](/#teaching)) and Engagement.
+  - Research in a range of topics focused in empirical Software Engineering, Requirements Egineering, Software Development, and Agile Methodologies. 
+  - Teaching Software Engineering Fundamentals, Software Engineering Project Management, Capstone Projects and Object-Oriented Sofware Design.
 
   """
+  
+  
 
 [[experience]]
   title = "Assistant Lecturer"

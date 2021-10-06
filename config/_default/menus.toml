@@ -16,8 +16,8 @@
   weight = 3
 
 [[main]]
-  name = "Medium"
-  url = "#medium"
+  name = "Recruitment"
+  url = "recruitment/"
   weight = 6
 
 [[main]]

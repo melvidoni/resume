@@ -10,13 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: "Lecturer at RMIT Computing Technologies"
+role: "Lecturer at ANU CESC"
 
 # Organizations/Affiliations
 organizations:
 - name: Associate Editor at rOpenSci
   url: "https://ropensci.org/blog/2019/01/31/more_editors/"
-- name: "melina.vidoni@rmit.edu.au"
+
+
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +52,7 @@ education:
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: "melina.vidoni@rmit.edu.au"
+#  link: "melinavidoni@ieee.org"
 - icon: twitter
   icon_pack: fab
   link: "//twitter.com/melvidoni"
@@ -79,12 +80,13 @@ social:
 email: ""
   
   
+  
+  
 ---
 
-Dr Vidoni is a Lecturer (tenured Assistant Professor) at the School of Computing Technologies at [RMIT University](https://www.rmit.edu.au/about/schools-colleges/science). She graduated from Universidad Tecnologica Nacional (UTN) as an Information Systems Engineer, where she also received her PhD, with the maximum qualification. She is also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/), often acting as Editor in Chief.
+Dr Vidoni is a newly joined academic (Lecturer, eq. to Assistant Professor) at the _Australian National University_ in the _School of Computing_, where she continues her domestic and international collaborations with Canada and Germany. Dr Vidoni's main research interests are mining software repositories, technical debt and software development; empirical software engineering when applied to data science and scientific software. **Dr Vidoni is currently recruiting students. Please refer to [Students Recruitment](/recruitment).**
 
-From 2013 to early 2019, she held a PhD scholarship and a Postdoc position at [INGAR CONICET-UTN](http://www.ingar.santafe-conicet.gov.ar/), under the supervision of Prof. Aldo Vecchietti. During 2018, Dr Vidoni was an Assistant Lecturer at [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/), in Santa Fe (Argentina), at the [Department of Information Systems Engineering](https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-en-sistemas-de-informacion). On the same year, she funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/).
+She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD on the same institution, with the maximum qualification. She funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Since 2018, she is also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/), often acting as Editor in Chief.
 
-Dr Vidoni's main research interests are mining software repositories, technical debt and software development; empirical software engineering when applied to data science and scientific software. Dr Vidoni also enjoys working on inter-disciplinary teams, and is currently part of international collaborations with researchers from Germany and Canada.
 
 <br/>

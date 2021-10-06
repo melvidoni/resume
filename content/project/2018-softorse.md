@@ -6,7 +6,7 @@ title: "Operational Research Driven By Software Engineering Principles"
 date: 2018-04-01T00:00:00
 
 # Project summary to display on homepage.
-summary: "(2018-present) This project aims to apply Software Engineering concepts, techniques and methods to Operational Research interventions. The overall goal is to assist in the development of OR models and to provide means to enhance their code quality."
+summary: "(2018-2020) This project aims to apply Software Engineering concepts, techniques and methods to Operational Research interventions. The overall goal is to assist in the development of OR models and to provide means to enhance their code quality."
 
 # Tags: can be used for filtering projects.
 tags: ["software-engineering"]
