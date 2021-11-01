@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD in Information Systems Engineering, Lecturer at RMIT School of Computing Technologies. Associate Editor of rOpenSci.
+bio: PhD. Lecturer at The Australian National University. Associate Editor of rOpenSci.
 
 interests:
 - Empirical Software Engineering
@@ -84,7 +84,7 @@ email: ""
   
 ---
 
-Dr Vidoni is a newly joined academic (Lecturer, eq. to Assistant Professor) at the _Australian National University_ in the _School of Computing_, where she continues her domestic and international collaborations with Canada and Germany. Dr Vidoni's main research interests are mining software repositories, technical debt and software development; empirical software engineering when applied to data science and scientific software. **Dr Vidoni is currently recruiting students. Please refer to [Students Recruitment](/recruitment).**
+Dr Vidoni is a newly joined academic (Lecturer, eq. to Assistant Professor) at the _Australian National University_ in the _School of Computing_, where she continues her domestic and international collaborations with Canada and Germany. Dr Vidoni's main research interests are mining software repositories, technical debt and software development; empirical software engineering when applied to data science and scientific software. **Dr Vidoni is currently recruiting students. Please refer to [Students Recruitment](/students).**
 
 She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD on the same institution, with the maximum qualification. She funded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Since 2018, she is also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/), often acting as Editor in Chief.
 

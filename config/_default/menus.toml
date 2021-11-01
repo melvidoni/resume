@@ -16,13 +16,13 @@
   weight = 3
 
 [[main]]
-  name = "Recruitment"
-  url = "recruitment/"
+  name = "Students"
+  url = "students/"
   weight = 6
 
 [[main]]
-  name = "Experience"
-  url = "experience/"
+  name = "Service"
+  url = "service/"
   weight = 5
 
 
