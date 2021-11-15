@@ -19,6 +19,12 @@ theme = "academic"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
+# Twitter
+of_image = "img/ogimage.png"
+
+
+
+
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false
