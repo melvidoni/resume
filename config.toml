@@ -20,9 +20,8 @@ theme = "academic"
 enableGitInfo = false
 
 # Twitter
-of_image = "img/ogimage.png"
-
-
+og_image = "img/ogimage.png"
+og_title = "Dr Melina Vidoni"
 
 
 # Default language to use (if you setup multilingual support)
