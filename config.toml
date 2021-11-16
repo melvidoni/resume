@@ -22,6 +22,9 @@ enableGitInfo = false
 # Twitter
 og_title = "Dr Melina Vidoni"
 
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image = "sharing.png"
+
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
