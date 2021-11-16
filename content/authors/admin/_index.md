@@ -18,7 +18,8 @@ organizations:
   url: "https://ropensci.org/blog/2019/01/31/more_editors/"
 
 
-
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image = "sharing.png"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD. Lecturer at The Australian National University. Associate Editor of rOpenSci.
