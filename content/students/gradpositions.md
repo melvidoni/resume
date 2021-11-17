@@ -17,7 +17,7 @@ weight = 5
 _Please don’t contact me until you have read this page. Applications that do not follow the steps outlined here will not obtain a response._
 
 
-**What:**  _Two fully-funded PhD positions_ with Dr Vidoni as a supervisor at ANU CESC School of Computing. Your PhD will be in Software Engineering, in the intersection of technical debt for data science software. There are two topics available, so please keep reading.
+**What:**  _Two fully-funded PhD positions_ with Dr Vidoni as a supervisor at ANU CECS School of Computing. Your PhD will be in Software Engineering, in the intersection of technical debt for data science software. There are two topics available, so please keep reading.
 
 **Duration:** A PhD requires 3 years full-time to complete. You need to ensure you can stay for that period and complete your candidacy.
 
