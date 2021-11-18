@@ -18,10 +18,10 @@ weight = 5
 
 _2022_
 
-
-- Program Commitee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](). [Rank A]
+- Program Committee member of [ROPES 2022 (International Workshop on Recruiting Participants for Empirical Software Engineering)](https://ropes-workshops.github.io/ropes22/). Workshop at ICSE 2022 (Rank A*).
+- Program Committee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee). [Rank A]
 - Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee). [Rank A]
-- Journal of Systems and Sosftware Open Science Board member, since September 2021.
+- Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
 
 
 _2021_
