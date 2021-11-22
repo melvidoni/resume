@@ -17,8 +17,6 @@ I am looking for Honours Students to work at ANU in 2022. Please, contact me via
 
 - _Project:_ Security issues admitted in commit messages. You will be mining commit messages from open-source GitHub projects, and analysing the text using different NLP techniques. _You can apply to the ANU Co-Lab Honours Grant with this project_. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/security-issues-admitted-commit-messages-hons-open).
 
-- _Project_: Sentiment Analysis in StackOverflow. You'll be mining posts from StackOverflow using specific tags, and run sentiment analyses over the text. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/sentiment-analysis-stackoverflow-hons-open).
-
 - _Project_: Analysing data science conversations in Twitter. You'll be mining Tweets that have specific hashtags, and analyse the text using different NLP techniques. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/analysing-data-science-conversations-twitter-hons-open).
 
 
