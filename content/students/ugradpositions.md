@@ -19,5 +19,9 @@ I am looking for Honours Students to work at ANU in 2022. Please, contact me via
 
 - _Project_: Analysing data science conversations in Twitter. You'll be mining Tweets that have specific hashtags, and analyse the text using different NLP techniques. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/analysing-data-science-conversations-twitter-hons-open).
 
+- _Project_: How do data scientists use GitHub? You'll analyse a wide range of version control operation and GitHub usages, including conducting an anonymous, online survey. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/how-do-data-scientists-use-github-hons-open).
+
+- _Project_: Exploring examples sections in Roxygen documentation for R packages. You will mine GitHub packages, analyse their documentation (only the example section), and survey developers. [Read more at ANU CECS](https://cs.anu.edu.au/research/student-research-projects/documenting-r-packages-what-good-example-hons-open).
+
 
 If you have an idea derived from one of my papers that is not listed here, just send your comments (1 page only) of one of my latest papers (2020+) that may interest you. You can find [my publications here](/publication). If you have your own project, but it aligns with my research interests, do the same, and send me a 1-page commentary/idea, alongisde the DOI of the paper.
