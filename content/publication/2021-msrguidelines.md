@@ -1,11 +1,11 @@
 ---
-abstract: "**Context:** Mining Software Repositories (MSR) is a growing area of Software Engineering (SE) research. Since their emergence in 2004, many investigations have analysed different aspects of these studies. However, there are no guidelines on how to conduct systematic MSR studies. There is a need to evaluate how MSR research is approached to provide a framework to do so systematically.
+abstract: "**Context:** Mining Software Repositories (MSR) is a growing area of Software Engineering (SE) research. Since their emergence in 2004, many investigations have analysed different aspects of these studies. However, there are no guidelines on how to conduct systematic MSR studies. There is a need to evaluate how MSR research is approached to provide a framework to do so systematically.<br />
 
-**Objective:** To identify how MSR studies are conducted in terms of repository selection and data extraction. To uncover potential for improvement in directing systematic research and providing guidelines to do so.
+**Objective:** To identify how MSR studies are conducted in terms of repository selection and data extraction. To uncover potential for improvement in directing systematic research and providing guidelines to do so.<br />
 
-**Method:** A systematic literature review of MSR studies was conducted following the guidelines and template proposed by Mian et al. (which refines those provided by Kitchenham and Charters). These guidelines were extended and revised to provide a framework for systematic MSR studies.
+**Method:** A systematic literature review of MSR studies was conducted following the guidelines and template proposed by Mian et al. (which refines those provided by Kitchenham and Charters). These guidelines were extended and revised to provide a framework for systematic MSR studies.<br />
 
-**Results:** MSR studies typically do not follow a systematic approach for repository selection, and many do not report selection or data extraction protocols. Furthermore, few manuscripts discuss threats to the study’s validity due to the selection or data extraction steps followed.
+**Results:** MSR studies typically do not follow a systematic approach for repository selection, and many do not report selection or data extraction protocols. Furthermore, few manuscripts discuss threats to the study’s validity due to the selection or data extraction steps followed.<br />
 
 **Conclusions:** Although MSR studies are evidence-based research, they seldom follow a systematic process. Hence, there is a need for guidelines on how to conduct systematic MSR studies. New guidelines and a template have been proposed, consolidating related studies in the MSR field and strategies for systematic literature reviews."
 
@@ -15,8 +15,8 @@ authors: ["Melina Vidoni"]
 date: "2021-12-04T00:00:00Z"
 math: true
 publication_types: ["3"]
-publication: "M.  Vidoni, 'A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review', Information and Software Technology, 2021. ISSN 0950-5849. DOI: 10.1016/j.infsof.2021.106791"
-publication_short: "IST"
+publication: "M.  Vidoni, 'A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review', _Information and Software Technology_, 2021. ISSN 0950-5849. DOI: 10.1016/j.infsof.2021.106791"
+publication_short: "Information and Software Technology"
 featured: true
 title: "A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review"
 url_code: ""
