@@ -13,7 +13,7 @@ publication_types: ["3"]
 publication: "In *Journal of Operational Research Society*, pp1221-1235. Vol 72(6)."
 publication_short: "In *Journal of Operational Research Society*, pp1221-1235."
 
-featured: true
+featured: false
 
 url_code: ""
 url_dataset: ""

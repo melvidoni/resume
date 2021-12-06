@@ -8,8 +8,8 @@ date: "2021-02-11T00:00:00Z"
 math: true
 publication_types: ["3"]
 publication: "In *Journal of the Operational Research Society*"
-publication_short: "*Journal of the Operational Research Society* [Ahead-of-Print], pp1-23"
-featured: true
+publication_short: "*Journal of the Operational Research Society*, pp1-23"
+featured: false
 title: "Beyond Hard and Soft OR: Operational Research from a Software Engineering Perspective"
 url_code: ""
 url_dataset: ""
