@@ -42,6 +42,13 @@ links:
 
 ---
 
+<br />
+
+## Highlights
+
+- Systematic literature review examining the process of MSR studies.
+- Provides a systematic approach for MSR research with a protocol template.
+- Proposes guidelines derived from existing processes, consolidating prior works.
 
 
 
@@ -50,13 +57,9 @@ links:
 ## Contributions
 
 - Assess the current practice of conducting MSR-based studies in Software Engineering (SE) through a systematic literature review (SLR).
-
 - Identifying gaps in MSR-based studies and compare their process to that of SLRs (as defined in [8]).
-
 - Centralised the findings into guidelines for systematic MSRs that support an unbiased aggregation of empirical results. These are derived from established SLR practices for SE (Petersen's and Kitchenham's guidelines) and supported by results from this SLR and previous related works by other authors.
-
 - A protocol template as guidelines to conduct MSR research.
-
 
 
 <br />
