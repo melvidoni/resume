@@ -65,9 +65,13 @@ links:
 <br />
 
 
-## Acknowledgements
+## Results Impact
 
-This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+(2021-12-11) I was [invited to suggest changes](https://twitter.com/ProfPaulRalph/status/1468937355906138112?s=20) to the preliminary ACM SIGSOFT Empirical Standard. Changes were made by [pull request into the open repository](https://github.com/acmsigsoft/EmpiricalStandards/pull/58), and later [streamlined](https://github.com/acmsigsoft/EmpiricalStandards/commit/8c65057255a464f468fe178faa96b7806921ae8a#diff-e070844e775dffb5daa20bd1ad036dbe5f2c4bd171c5515ca02cccc010c9134f).
+
+
+
+
 
 
 <br />
@@ -91,7 +95,7 @@ keywords = {Mining Software Repositories, Systematic literature review, Evidence
 
 <br />
 
-### Venue Impact
+## Venue Impact
 
 The following is the venue impact, according to Scimago Journal Ranking:
 
