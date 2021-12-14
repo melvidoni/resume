@@ -12,10 +12,10 @@ abstract: "**Context:** Mining Software Repositories (MSR) is a growing area of 
 
 
 authors: ["Melina Vidoni"]
-date: "2021-12-04T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 math: true
 publication_types: ["3"]
-publication: "M.  Vidoni, 'A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review', _Information and Software Technology_, 2021. ISSN 0950-5849. DOI: 10.1016/j.infsof.2021.106791"
+publication: "M.  Vidoni, 'A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review', _Information and Software Technology_, 2022. ISSN 0950-5849. DOI: 10.1016/j.infsof.2021.106791"
 publication_short: "Information and Software Technology"
 featured: true
 title: "A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review"
@@ -80,10 +80,10 @@ links:
 ## Citation
 ```
 @article{Vidoni2021c,
-title = {A systematic process for Mining Software Repositories: Results from a systematic literature review},
+title = "{A Systematic Process for Mining Software Repositories: Results from a Systematic Literature Review}",
 journal = {Information and Software Technology},
 pages = {106791},
-year = {2021},
+year = {2022},
 issn = {0950-5849},
 doi = {https://doi.org/10.1016/j.infsof.2021.106791},
 url = {https://www.sciencedirect.com/science/article/pii/S0950584921002317},

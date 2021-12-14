@@ -24,3 +24,21 @@ doi: "10.5220/0006362005100517"
 projects: ["2013-thesis"]
 
 ---
+
+
+
+## Citation
+```
+@inproveedings{Vidoni2017,
+author={Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title="{Improving the Assesment of Advanced Planning Systems by Including Optimization Experts\' Knowledge}",
+booktitle={Proceedings of the 19th International Conference on Enterprise Information Systems},
+year={2017},
+pages={510-517},
+volume={2},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0006362005100517},
+isbn={978-989-758-248-6},
+}
+```

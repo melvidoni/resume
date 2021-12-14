@@ -25,3 +25,20 @@ doi: "10.5220/0005785804330440"
 projects: ["2013-thesis"]
  
 ---
+
+## Citation
+```
+@inproceedings{iceis16,
+author={Melina Vidoni and Aldo Vecchietti},
+title="{Towards a Reference Architecture for Advanced Planning Systems}"",
+booktitle={Proceedings of the 18th International Conference on Enterprise Information Systems},
+year={2016},
+pages={433-440},
+volume={1},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0005785804330440},
+isbn={978-989-758-187-8},
+issn={2184-4992},
+}
+```

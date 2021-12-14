@@ -28,7 +28,26 @@ projects: ["2013-thesis"]
 ### Acknowledgements
 
 The authors gratefully acknowledge the financial support for the work presented in this article to
-Universidad Tecnolo´gica Nacional (UTN) through PID EIUTIFE0003974TC and PID EIUTIFE0003960TC. Also, the authors thankful Prof. Juan Carlos Ramos for his cooperation in this experiment on the ‘Architecture Based Software Design’ course at UTN-FRSF.
+Universidad Tecnologica Nacional (UTN) through PID EIUTIFE0003974TC and PID EIUTIFE0003960TC. Also, the authors thankful Prof. Juan Carlos Ramos for his cooperation in this experiment on the 'Architecture Based Software Design' course at UTN-FRSF.
+
+
+<br />
+
+
+## Citation
+```
+@ARTICLE {Vidoni2018a,
+author   = {Melina Vidoni and Jorge Marcelo Montagna and Aldo Vecchietti},
+title    = "{Project and Team-Based Strategies for Teaching Software Architecture}",
+journal  = "{International Journal of Engineering Education}",
+year     = "2018",
+volume   = "34",
+number   = "5",
+pages    = "1701–1708",
+url =   "https://www.ijee.ie/contents/c340518.html",
+issn     = "0949-149X"
+}
+```
 
 
 <br />

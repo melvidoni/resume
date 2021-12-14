@@ -26,4 +26,27 @@ url_custom:
   name: "Poster"
   url: "2018-iceis-agile-or-poster.pdf"
 
+
+url_custom:
+  name: "DOI"
+  url: "https://doi.org/10.5220/0006760504320440"
 ---
+
+
+
+
+## Citation
+```
+@conference{iceis18,
+author={Melina Vidoni. and Maria Laura Cunico. and Aldo Vecchietti.},
+title={Towards an Agile Lifecycle in Operation Research Projects},
+booktitle={Proceedings of the 20th International Conference on Enterprise Information Systems - Volume 1: ICEIS,},
+year={2018},
+pages={432-440},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0006760504320440},
+isbn={978-989-758-298-1},
+issn={2184-4992},
+}
+```

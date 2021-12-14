@@ -20,7 +20,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD. Lecturer at The Australian National University. Associate Editor of rOpenSci.
+bio: PhD. Lecturer at Australian National University. Associate Editor of rOpenSci.
 
 interests:
 - Empirical Software Engineering
