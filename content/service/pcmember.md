@@ -22,6 +22,7 @@ _2022_
 - Program Committee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee). [Rank A]
 - Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee). [Rank A]
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
+- Program Committee member of [COSEDS 2022 (Conference on Software Engineering and Data Sciences), Main Research Track](https://coseds.uok.edu.in/main/dynamicData.aspx?s=pcMembers).
 
 
 _2021_
