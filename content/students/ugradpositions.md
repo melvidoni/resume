@@ -19,6 +19,10 @@ I am looking for Honours Students to work at ANU in 2022. Please, contact me via
 
 - _Project:_ Security issues admitted in commit messages. You will be mining commit messages from open-source GitHub projects, and analysing the text using different NLP techniques. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/security-issues-admitted-commit-messages-hons).
 
+- _Project:_ Privacy and Security in MSR Research. You will conduct a systematic literature review to understand what open science means for MSR research, how it affects participants' privacy and what are the major concerns. You will have to read a large number of papers, synthesise their content, and produce visualisations and analysis to create new knowledge. It is possible that you will also conduct an anonymous online survey to triangulate those results with your systematic literature review. [Read more at ANU CECS](https://cs.anu.edu.au/research/student-research-projects/privacy-and-security-msr-research-hons-open).
+
+- _Project:_ Privacy and Technical Debt. You will conduct a systematic literature review to understand what privacy means for software development when analysed through the lens of TD. You will have to read a large number of papers, synthesise their content, and produce a taxonomy of privacy debt and its most addressed smells. You will have to summarise information, create visualisations and thorough, in-depth analysis. [Read more at ANU CECS](https://cs.anu.edu.au/research/student-research-projects/privacy-technical-debt-hons-open).
+
 
 **Insights on Devs**
 
@@ -36,4 +40,4 @@ I am looking for Honours Students to work at ANU in 2022. Please, contact me via
 
 
 
-If you have an idea derived from one of my papers that is not listed here, just send your comments (1 page only) of one of my latest papers (2020+) that may interest you. You can find [my publications here](/publication). If you have your own project, but it aligns with my research interests, do the same, and send me a 1-page commentary/idea, alongisde the DOI of the paper.
+If you have an idea derived from one of my papers that is not listed here, just send your comments (1 page only) of one of my latest papers (2020+) that may interest you. You can find [my publications here](/publication). If you have your own project, but it aligns with my research interests, do the same, and send me a 1-page commentary/idea, alongside the DOI of the paper.
