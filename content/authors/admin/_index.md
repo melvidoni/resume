@@ -65,9 +65,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: "https://orcid.org/0000-0002-4099-1430"
-- icon: medium
-  icon_pack: fab
-  link: "https://medium.com/@melvidoni"
+#- icon: medium
+#  icon_pack: fab
+#  link: "https://medium.com/@melvidoni"
 
   
 # Link to a PDF of your resume/CV from the About widget.

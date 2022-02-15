@@ -28,12 +28,12 @@ subtitle = "Publications selected by personal preference and interest. You can b
     publication_type = ""
   
 [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 3
+# Toggle between the various page layout types.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation (publication only)
+view = 4
   
   
 [advanced]
