@@ -9,7 +9,7 @@ date: 2013-04-01T00:00:00
 summary: "(2013-2017) My PhD Thesis project aimed to study Advanced Planning Systems (APS) from a Software Engineering (SE) point of view, aiming to bridge the current gap in research, providing sound concepts and definitions founded in current international SE standars."
 
 # Tags: can be used for filtering projects.
-tags: ["software-engineering", "enterprise-systems"]
+tags: ["Completed Project"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

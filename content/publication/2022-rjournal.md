@@ -114,7 +114,6 @@ The below is the citation for hte [rejoinder article](https://journal.r-project.
 
 
 
-
 <br />
 
 ### Venue Impact

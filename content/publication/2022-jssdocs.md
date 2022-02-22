@@ -83,12 +83,14 @@ The methodology used in this manuscript, described in the sections below, was re
 ```
 @article{Vidoni2022b,
 title = "{Understanding Roxygen Package Documentation in R}",
-journal = "{Journal of Systems and Software}"",
+journal = "{Journal of Systems and Software}",
+author = {Melina Vidoni},
+volume = {188},
 pages = {111265},
 year = {2022},
 issn = {0164-1212},
 doi = {https://doi.org/10.1016/j.jss.2022.111265},
-author = {Melina Vidoni},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121222000310},
 keywords = {Software engineering, Roxygen, Api documentation, Technical debt, Mining software repositories, Developers’ survey},
 }
 ```

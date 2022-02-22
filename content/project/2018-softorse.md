@@ -9,7 +9,7 @@ date: 2018-04-01T00:00:00
 summary: "(2018-2020) This project aims to apply Software Engineering concepts, techniques and methods to Operational Research interventions. The overall goal is to assist in the development of OR models and to provide means to enhance their code quality."
 
 # Tags: can be used for filtering projects.
-tags: ["software-engineering"]
+tags: ["Completed Project"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
