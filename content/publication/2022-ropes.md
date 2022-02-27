@@ -13,7 +13,7 @@ featured: true
 title: "Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2202.11969.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
@@ -22,7 +22,7 @@ url_video: ""
 
 links:
 - name: "DOI"
-  url: ""
+  url: "https://arxiv.org/abs/2202.11969"
 
  
 image:
