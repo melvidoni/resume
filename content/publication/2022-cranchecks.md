@@ -19,6 +19,7 @@ url_slides: ""
 url_video: ""
 
  
+
 image:
   caption: ""
   focal_point: "Left"
