@@ -12,8 +12,8 @@ image_preview: ""
 math: true
 publication_types: ["3"]
 
-publication: "In *Journal of Systems and Software*, ppXX. Vol X(X)"
-publication_short: "In *Journal of Systems and Software*, ppXX. Vol X(X)"
+publication: "In *Journal of Systems and Software*, Vol 188"
+publication_short: "In *Journal of Systems and Software*, Vol 188"
 
 featured: true
 
@@ -84,13 +84,13 @@ The methodology used in this manuscript, described in the sections below, was re
 @article{Vidoni2022b,
 title = "{Understanding Roxygen Package Documentation in R}",
 journal = "{Journal of Systems and Software}",
-author = {Melina Vidoni},
 volume = {188},
 pages = {111265},
 year = {2022},
 issn = {0164-1212},
 doi = {https://doi.org/10.1016/j.jss.2022.111265},
 url = {https://www.sciencedirect.com/science/article/pii/S0164121222000310},
+author = {Melina Vidoni},
 keywords = {Software engineering, Roxygen, Api documentation, Technical debt, Mining software repositories, Developers’ survey},
 }
 ```

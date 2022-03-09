@@ -4,10 +4,10 @@ abstract: "Mining Software Repositories (MSRs) cross-links data to uncover actio
 
 
 authors: ["Melina Vidoni", "Nicolas Diaz-Ferreyra"]
-date: "2021-05-07T00:00:00Z"
+date: "2022-02-10T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "M. Vidoni and N. Diaz-Ferreyra, 'Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants', in Workshop on Recruiting Participants for Empirical Software Engineering (ROPES, Co-located with ICSE 2022)."
+publication: "in Workshop on Recruiting Participants for Empirical Software Engineering (ROPES, Co-located with ICSE 2022)"
 publication_short: ""
 featured: true
 title: "Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants"
