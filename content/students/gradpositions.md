@@ -16,7 +16,7 @@ weight = 5
 
 I’m always looking for excellent PhD students. If you’re interested in working with me, please be sure to read this first. _Please don’t contact me until you have read this page. Applications that do not follow the steps outlined here will not obtain a response._
 
-**What:**  If you work with me, your PhD will be in Software Engineering, in the intersection of technical debt for data science software, and leveraging mining software repositories and mixed-methods. This are not positions to develop software, you will become a researcher, not a software developer (although software developing skills are needed).
+**What:**  If you work with me, your PhD will be in Software Engineering, in the intersection of technical debt for data science software, and leveraging mining software repositories and mixed-methods. These are not positions to develop software, you will become a researcher, not a software developer (although software developing skills are needed).
 
 **Duration:** A PhD requires 3 years full-time to complete. You need to ensure you can stay for that period and complete your candidacy.
 
