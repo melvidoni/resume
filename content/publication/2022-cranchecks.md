@@ -25,9 +25,9 @@ image:
   focal_point: "Left"
   preview_only: true
 
-#links:
-#- name: "DOI"
-#  url: ""
+links:
+- name: "DOI"
+  url: "https://doi.org/10.1145/3524610.3528389."
   
   
 # Projects (optional).
