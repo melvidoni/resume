@@ -22,13 +22,16 @@ I am looking for Honours Students to work at ANU in 2022. Please, contact me via
 
 **Insights on Devs**
 
-- _Project_: How do data scientists use GitHub? You'll analyse a wide range of version control operation and GitHub usages, including conducting an anonymous, online survey. [Read more at ANU CECS website](https://cs.anu.edu.au/research/student-research-projects/how-do-data-scientists-use-github-hons-open).
+- _Project_: How do data scientists use GitHub? You'll analyse a wide range of version control operation and GitHub usages, including conducting an anonymous, online survey. [Read more at ANU CECS](https://cs.anu.edu.au/research/student-research-projects/how-do-data-scientists-use-github-hons-open).
+
+- _Project_: Grey Literature Review regarding Developers' Advice on Technical Debt. Co-directed with Dr Codabux (from University of Saskatchewan, Canada).  [Read more at ANU CECS](https://cecs.anu.edu.au/research/student-research-projects/grey-literature-technical-debt-open)
 
 
-**Software Engineering for Data Science**
+**Software Engineering Research**
 
 - _Project_: Exploring examples sections in Roxygen documentation for R packages. You will mine GitHub packages, analyse their documentation (only the example section), and survey developers. [Read more at ANU CECS](https://cs.anu.edu.au/research/student-research-projects/documenting-r-packages-what-good-example-hons-open).
 
+- _Project:_ How Developers Discussion on Software Design Impact Quality. You will mine GitHub packages and run a number of static analysis tools to obtain metrics per version. Co-directed with Dr Codabux (from University of Saskatchewan, Canada). [Read more at ANU CECS](https://cecs.anu.edu.au/research/student-research-projects/how-developers-discussion-software-design-impact-quality-open)
 
 
 If you have an idea derived from one of my papers that is not listed here, just send your comments (1 page only) of one of my latest papers (2020+) that may interest you. You can find [my publications here](/publication). If you have your own project, but it aligns with my research interests, do the same, and send me a 1-page commentary/idea, alongside the DOI of the paper.
