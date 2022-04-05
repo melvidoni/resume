@@ -18,6 +18,7 @@ weight = 5
 
 _2022_
 
+- Program Committee member of [PROMISE 2022 (Conference on Predictive Models and Data Analytics in Software Engineering)](https://promiseconf.github.io/2022/index.html), co-ocated with FSE 2022 [Rank A*]
 - Program Committee member of [ASE 2022 (Automated Software Engineering), NIER track](https://conf.researchr.org/committee/ase-2022/ase-2022-nier-track-program-committee) and [Late Breaking track](https://conf.researchr.org/committee/ase-2022/ase-2022-late-breaking-results-program-committee). [Rank A*]
 - Program Committee member of [ICSME 2022 (International Conference on Software Maintenance and Evolution), Main Research Track](https://cyprusconferences.org/icsme2022/program-committee-of-the-technical-track/). [Rank A]
 - Program Committee member of [ROPES 2022 (International Workshop on Recruiting Participants for Empirical Software Engineering)](https://ropes-workshops.github.io/ropes22/). Workshop at ICSE 2022 (Rank A*).
