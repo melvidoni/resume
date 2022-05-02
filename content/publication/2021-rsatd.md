@@ -51,6 +51,8 @@ More than 164k of comments were manually read and classified into 12 types of TD
 
 - A dataset of SATD comments in a large variety of R packages for use in future studies, as well as the final list of text patterns discovered in this study. See: [https://doi.org/10.5281/zenodo.4558219](https://doi.org/10.5281/zenodo.4558219)
 
+- **Impact:** This article was reported as part of ["Technical Debt Problems and Concerns"](https://doi.org/10.1109/MS.2021.3133734), an article in the IEEE Software, Volume 39, Issue 3.
+
 
 
 <br />
@@ -58,7 +60,7 @@ More than 164k of comments were manually read and classified into 12 types of TD
 
 ## Ethical Considerations
 
-The methodology used in this manuscript was approved by RMIT University Human Ethics Research Committee (HREC), with project code 	2020-23517.
+The methodology used in this manuscript was approved by RMIT University Human Ethics Research Committee (HREC), with project code 2020-23517.
 
 
 <br />
