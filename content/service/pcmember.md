@@ -19,11 +19,11 @@ weight = 5
 _2022_
 
 - Program Committee member of [PROMISE 2022 (Conference on Predictive Models and Data Analytics in Software Engineering)](https://promiseconf.github.io/2022/index.html), co-ocated with FSE 2022 [Rank A*]
-- Program Committee member of [ASE 2022 (Automated Software Engineering), NIER track](https://conf.researchr.org/committee/ase-2022/ase-2022-nier-track-program-committee) and [Late Breaking track](https://conf.researchr.org/committee/ase-2022/ase-2022-late-breaking-results-program-committee). [Rank A*]
-- Program Committee member of [ICSME 2022 (International Conference on Software Maintenance and Evolution), Main Research Track](https://cyprusconferences.org/icsme2022/program-committee-of-the-technical-track/). [Rank A]
-- Program Committee member of [ROPES 2022 (International Workshop on Recruiting Participants for Empirical Software Engineering)](https://ropes-workshops.github.io/ropes22/). Workshop at ICSE 2022 (Rank A*).
-- Program Committee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee). [Rank A]
-- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee). [Rank A]
+- Program Committee member of [ASE 2022 (Automated Software Engineering), NIER track](https://conf.researchr.org/committee/ase-2022/ase-2022-nier-track-program-committee) and [Late Breaking track](https://conf.researchr.org/committee/ase-2022/ase-2022-late-breaking-results-program-committee) [Rank A*]
+- Program Committee member of [ICSME 2022 (International Conference on Software Maintenance and Evolution), Main Research Track](https://cyprusconferences.org/icsme2022/program-committee-of-the-technical-track/) [Rank A]
+- Program Committee member of [ROPES 2022 (International Workshop on Recruiting Participants for Empirical Software Engineering)](https://ropes-workshops.github.io/ropes22/). Workshop at ICSE 2022 [Rank A*].
+- Program Committee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee) [Rank A]
+- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee) [Rank A]. Recipient of the [Distinguished Reviewer Award](https://conf.researchr.org/info/msr-2022/awards).
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
 
 
