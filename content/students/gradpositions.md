@@ -34,6 +34,7 @@ I’m looking for excellent PhD students. If you’re interested in working with
 
 I currently have a _fully funded_ position available to work under my supervision for a PhD in Software Engineering applied to Scientific Software. **Please read below for application conditions**. This PhD will work on _Algorithm Debt_, which corresponds to sub-optimal implementations of algorithm logic in the scientific software. Thus, you can expect to work with both Python and R code, and also with practitioners' surveys and insights to define algorithm debt, uncover its causes, and see how it changes in different subdomains. Please read below for the steps to apply.
 
+**Note: although everyone is welcome to apply, women, non-binary and female-identifying people are especially encouraged to submit.**
 
 
 ### How to Apply:
