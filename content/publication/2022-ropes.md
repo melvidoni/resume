@@ -20,9 +20,12 @@ url_video: ""
 
 
 
+
 links:
 - name: "DOI"
   url: "https://arxiv.org/abs/2202.11969"
+- name: "Publication"
+  url: "https://conf.researchr.org/details/icse-2022/ropes-2022-papers/4/Should-I-Get-Involved-On-the-Privacy-Perils-of-Mining-Software-Repositories-for-Rese"
 
  
 image:
