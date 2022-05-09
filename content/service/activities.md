@@ -14,7 +14,6 @@ weight = 15
 
 **Talks and Workshops**
 
-- Newcomer's Mentor, at [MSR 2022]() [Rank A Conference, colocated with ICSE]
 - Invited Talk ["TechDebt Research Using MSR Approaches"](https://twitter.com/melvidoni/status/1468445831145525248?s=20), at University of Adelaide CREST (Centre for Research on Engineering Software Technologies). Hosted by Mubin Swarup. Adelaide-Canberra (Virtual). 
 - Invited Talk. "TechDebt in R: What your (Unit) Tests and Comments Say About Your R Package Code", at Monash University (NUMBAT seminar). Hosted by Stuart Lee, Dianne Cook.
 - Invited Talk. "Unit Testing Practices in R Programming", at Monash University. Invited and hosted by Dr Chakkrit Tantithamthavorn. Melbourne, Australia (February 11th, 2021).
