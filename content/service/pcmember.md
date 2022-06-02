@@ -10,6 +10,18 @@ weight = 5
 
 +++
 
+</br>
+
+**Organising Committee Duties**
+
+_2022_
+
+- Organising Committee member of [MSR4P&S Workshop](https://2022.esec-fse.org/track/fse-2022-workshops), colocated with ESEC/FSE 2022 [Rank A*]
+
+
+
+
+
 
 
 </br>
@@ -23,14 +35,17 @@ _2022_
 - Program Committee member of [ICSME 2022 (International Conference on Software Maintenance and Evolution), Main Research Track](https://cyprusconferences.org/icsme2022/program-committee-of-the-technical-track/) [Rank A]
 - Program Committee member of [ROPES 2022 (International Workshop on Recruiting Participants for Empirical Software Engineering)](https://ropes-workshops.github.io/ropes22/). Workshop at ICSE 2022 [Rank A*].
 - Program Committee member of [ICPC 2022 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee) [Rank A]
-- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee) [Rank A]. Recipient of the [Distinguished Reviewer Award](https://conf.researchr.org/info/msr-2022/awards).
+
+- Program Committee member of [MSR 2022 (Working Conference on Mining Software Repositories), Main Research Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee) [Rank A]. Recipient of the **Distinguished Reviewer Award** [<i class="fas fa-file-pdf" style="color:#850101"></i>](../publication/msr22-vidoni-distinguishedreviewer.pdf)
+
+
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
 
 
 
 _2021_
 
-- Program Committee member of [ICSME 2021 (International Conference on Software Maintenance and Evolution), Main Research Track](https://icsme2021.github.io/ProgramCommittee.html). _Recipient of the ["Distinguished Reviewer Award"](https://twitter.com/aserebrenik/status/1444009795355349014?s=20)_. [Rank A]
+- Program Committee member of [ICSME 2021 (International Conference on Software Maintenance and Evolution), Main Research Track](https://icsme2021.github.io/ProgramCommittee.html). Recipient of the **Distinguished Reviewer Award** [<i class="fas fa-link" style="color:#002db3"></i>](https://twitter.com/aserebrenik/status/1444009795355349014?s=20) [Rank A]
 - Program Committee member of [ASE 2021 (Automated Software Engineering), Late Breaking Results (LBR) track](https://conf.researchr.org/committee/ase-2021/ase-2021-late-breaking-results-program-committee). [Rank A*]
 - Program Committee member of [ACM WomENCOURAGE 2021, Poster Session](https://womencourage.acm.org/2021/poster-evaluation-committee/).
 - Program Committee member of [HUFAMO 2021 (Workshop on Human Factors in Modelling / Modelling Human Factors)](https://www.monash.edu/it/humanise-lab/hufamo21) (Co-located with ACM/IEEE 24th MODELS). [Rank A]

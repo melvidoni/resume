@@ -3,7 +3,7 @@ abstract: "R is a package-based, multi-paradigm programming language for scienti
 
 
 
-authors: ["Pranjay Kumar", "Davin Ie", Melina Vidoni"]
+authors: ["Pranjay Kumar", "Davin Ie", "Melina Vidoni"]
 date: "2022-03-10T00:00:00Z"
 math: true
 publication_types: ["1"]
@@ -27,7 +27,7 @@ image:
 
 links:
 - name: "DOI"
-  url: "https://doi.org/10.1145/3524610.3528389."
+  url: "https://doi.org/10.1145/3524610.3528389"
   
   
 # Projects (optional).
