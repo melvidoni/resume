@@ -11,18 +11,18 @@ image_preview: ""
 math: true
 publication_types: ["3"]
 
-publication: "In *SoftwareX*, Vol XX"
-publication_short: "In *SoftwareX*, Vol XX"
+publication: "In *SoftwareX*, Vol 19C"
+publication_short: "In *SoftwareX*, Vol 19C"
 
 featured: true
 
 url_code: "https://github.com/tdresearchgroup/analyzeR-SonarQubePlugin"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "publication/2022-analyzer.pdf"
 url_project: ""
 url_slides: ""
-url_video: ""
-doi: ""
+url_video: "https://ars-els-cdn-com.virtual.anu.edu.au/content/image/1-s2.0-S2352711022000747-mmc1.mp4"
+doi: "https://doi.org/10.1016/j.softx.2022.101113"
 
 
 # Projects (optional).
@@ -48,8 +48,7 @@ The metrics available in **analyzeR** are the following (release 2022/06): Lines
 
 ### Acknowledgements
 
-This study is partly supported by the Natural Sciences and Engineering Research Council of Canada, RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan. 
-
+This study is partly supported by the Natural Sciences and Engineering Research Council of Canada , RGPIN-2021-04232 and DGECR-2021-00283 at the University of Saskatchewan.
 
 
 
@@ -62,8 +61,18 @@ This study is partly supported by the Natural Sciences and Engineering Research 
 ### Citation
 
 ```
-
-
+@article{Chandramouli2022,
+title = "{analyzeR: A SonarQube plugin for analyzing object-oriented R Packages}",
+journal = {SoftwareX},
+volume = {19},
+pages = {101113},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2022.101113},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711022000747},
+author = {Pranav Chandramouli and Zadia Codabux and Melina Vidoni},
+keywords = {SonarQube, R packages, Static code analysis, Object-oriented, R plugin},
+}
 ```
 
 
