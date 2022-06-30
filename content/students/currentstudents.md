@@ -26,8 +26,19 @@ weight = 15
 - **Dominic Yang**. _Topic:_ "GitHub issues in the R/Python community". _Type:_ Honours, 2022.
 
 
+
+
 ### Research Projects:
 
-- **Richeng Zhang**. _Topic:_ "Analysing data science conversations in Twitter". _Type:_ Individual research project, S1 2022.
-- **Kehan Zhao**. _Topic:_ "Analysing reproducibility conversations in Twitter". _Type:_ Individual research project, 2022.
+TBA
 
+
+
+
+
+
+</br>
+
+## Posgraduate Candidates
+
+- **Zara Hassan, MsC**. PhD Candidate studying Reproducibility on Scientific Software. _Co-Advisor:_ [Dr Zadia Codabux from USask, Canada](https://www.cs.usask.ca/faculty/zadiacodabux/index.html)
