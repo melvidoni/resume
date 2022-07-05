@@ -30,7 +30,8 @@ weight = 15
 
 **Memberships**
 
-- IEEE Member, including Computer Society membership. Since 2020.
+- IEEE Member, including _IEEE Computing Society_ and _IEEE Women in Engineering_. Since 2020.
+- ACM Member, including ACM SIGSOFT. Since 2021.
 - INSTICC Member, since 2017.
 
 
@@ -42,5 +43,6 @@ weight = 15
 
 **Outreach**
 
-- Founder and Main-Organiser of [R-Ladies Santa Fe](https://www.meetup.com/en-AU/rladies-santa-fe/) (2018).
+- Founder and Main-Organiser of [R-Ladies Santa Fe](https://www.meetup.com/en-AU/rladies-santa-fe/) (2018-2019).
+- Member of the ANU R-Users Group, since 2022.
 
