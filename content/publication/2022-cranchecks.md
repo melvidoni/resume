@@ -7,8 +7,8 @@ authors: ["Pranjay Kumar", "Davin Ie", "Melina Vidoni"]
 date: "2022-03-10T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "in IEEE/ACM 30th International Conference on Program Comprehension (ICPC), 2022"
-publication_short: ""
+publication: "in IEEE/ACM 30th **International Conference on Program Comprehension (ICPC)**, 2022"
+publication_short: "in **ICPC 2022**, pp570-574"
 featured: true
 title: "On the Developers' Attitude Towards CRAN Checks"
 url_code: ""
@@ -27,7 +27,7 @@ image:
 
 links:
 - name: "DOI"
-  url: "https://doi.org/10.1145/3524610.3528389"
+  url: "https://doi.ieeecomputersociety.org/10.1145/3524610.3528389"
   
   
 # Projects (optional).
@@ -71,8 +71,8 @@ title = {On the Developers' Attitude Towards CRAN Checks},
 year = {2022},
 volume = {},
 issn = {},
-pages = {},
-doi = {},
+pages = {570-574},
+doi = {10.1145/3524610.3528389},
 publisher = {IEEE Computer Society},
 address = {Pittsburng, USA},
 }

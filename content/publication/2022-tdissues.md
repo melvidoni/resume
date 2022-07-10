@@ -10,7 +10,7 @@ math: true
 publication_types: ["1"]
 publication: "in 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)"
 publication_short: ""
-featured: true
+featured: false
 title: "An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned"
 url_code: ""
 url_dataset: ""
@@ -29,7 +29,7 @@ image:
 
 #links:
 #- name: "DOI"
-#  url: "https://doi.org/10.1145/3524610.3528389"
+#  url: ""
   
   
 # Projects (optional).
