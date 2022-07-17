@@ -13,12 +13,12 @@ publication_short: ""
 featured: false
 title: "An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned"
 url_code: ""
-url_dataset: ""
-url_pdf: ""
+url_dataset: "https://doi.org/10.5281/zenodo.6824127"
+url_pdf: "publication/2022-esem22.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
-
+doi: "10.1145/3544902.3546637"
  
  
 
@@ -27,9 +27,7 @@ image:
   focal_point: "Left"
   preview_only: true
 
-#links:
-#- name: "DOI"
-#  url: ""
+
   
   
 # Projects (optional).
@@ -47,11 +45,22 @@ image:
 Although we successfully classified PRCs as TD and non-TD and the TD comments as explicit and implicit, the classification process was challenging. We found that PRCs often lack the context to understand it and correctly classify it. Some PRCs were potential TD, but we could not determine whether they will eventually become a TD instance using only information in the PRC. PRCs were often ambiguous and hard to understand due to the natural language in which they were written, and the terminologies and vocabulary used differ among the developers. Lastly, more than one PRC could be related to the same debt instance, or multiple debt instances may be discussed in a PRC. We discussed some mitigation strategies for these challenges.
 
 
+
 <br />
 
 
 
 ## Citation
 ```
-
+@INPROCEEDINGS{Shubhashis2022,
+author = {k. Shubhashis and Z. Codabux and M. Vidoni},
+booktitle = "{16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)}",
+title = "{An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned}",
+year = {2022},
+pages = {},
+keywords = {Mining software repositories; technical debt, machine learning},
+doi = {10.1145/3544902.3546637},
+publisher = {IEEE Computer Society},
+address = {Helsinki, Finland},
+}
 ```

@@ -21,8 +21,8 @@ url_dataset: ""
 url_pdf: "publication/2022-analyzer.pdf"
 url_project: ""
 url_slides: ""
-url_video: "https://ars-els-cdn-com.virtual.anu.edu.au/content/image/1-s2.0-S2352711022000747-mmc1.mp4"
-doi: "https://doi.org/10.1016/j.softx.2022.101113"
+url_video: ""
+doi: "10.1016/j.softx.2022.101113"
 
 
 # Projects (optional).
