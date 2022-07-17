@@ -16,7 +16,8 @@ role: "Lecturer at ANU CESC"
 organizations:
 - name: Associate Editor at rOpenSci
   url: "https://ropensci.org/blog/2019/01/31/more_editors/"
-
+- name: IST Editorial Board Member
+  url: "https://www.journals.elsevier.com/information-and-software-technology/editorial-board/melina-vidoni"
 
 
 # Short bio (displayed in user profile at end of posts)
