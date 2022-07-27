@@ -20,7 +20,7 @@ url_pdf: ""
 url_project: ""
 url_slides: ""
 url_video: ""
-doi: ""
+doi: "10.1007/s12532-022-00225-1"
  
 image:
   caption: ""
@@ -35,7 +35,6 @@ projects: ["2018-softorse"]
   
 
 ---
-
 
 
 
@@ -76,11 +75,21 @@ Finally, some additional plots not included in the manuscript are part of the re
 
 
 
+
 <br />
 
 ## Citation
 ```
-
+@article{VidoniCunico2022,
+  author = {Melina Vidoni, Laura Cunico},
+  title = {"On Technical Debt in Mathematical Programming: An Exploratory Study"},
+  year = {2022},
+  journal = {"Mathematical Programming Computation"},
+  doi = {10.1007/s12532-022-00225-1},
+  pages = {1-22},
+  volume = {},
+  number = {}
+}
 ```
 
 

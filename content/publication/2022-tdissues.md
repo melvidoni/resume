@@ -28,7 +28,9 @@ image:
   preview_only: true
 
 
-  
+links:
+- name: "Publication"
+  url: "https://conf.researchr.org/details/esem-2022/esem-2022-emerging-results-and-vision-papers/4/An-Experience-Report-on-Technical-Debt-in-Pull-Requests-Challenges-and-Lessons-Learn"
   
 # Projects (optional).
 #projects: 
