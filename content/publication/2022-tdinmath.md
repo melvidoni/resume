@@ -11,12 +11,12 @@ date: "2022-07-08T00:00:00Z"
 math: true
 publication_types: ["3"]
 publication: "In *Mathematical Programming Computation*"
-publication_short: "*Mathematical Programming Computation*, ppXX"
+publication_short: "*Mathematical Programming Computation*, Open Access"
 featured: false
 title: "On Technical Debt in Mathematical Programming: An Exploratory Study"
 url_code: ""
 url_dataset: "https://doi.org/10.5281/zenodo.6757598"
-url_pdf: ""
+url_pdf: "publication/2022-tdmath.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
@@ -49,6 +49,7 @@ Overall, our study uncovered modellers' tendency to refactor and polish the fina
 
 
 
+
 <br />
 
 
@@ -59,6 +60,7 @@ The authors have no relevant financial or non-financial interests to disclose. T
 
 The methodology used in this was approved by the ANU Human Ethics Research Committee (HREC), with project code 2020-23416-11101.
 
+<br />
 
 
 
@@ -73,22 +75,28 @@ Finally, some additional plots not included in the manuscript are part of the re
 
 
 
+<br />
 
+
+## Acknowledgements
+
+Open Access funding enabled and organized by CAUL and its Member Institutions.
 
 
 <br />
 
 ## Citation
 ```
-@article{VidoniCunico2022,
-  author = {Melina Vidoni, Laura Cunico},
-  title = {"On Technical Debt in Mathematical Programming: An Exploratory Study"},
-  year = {2022},
-  journal = {"Mathematical Programming Computation"},
-  doi = {10.1007/s12532-022-00225-1},
-  pages = {1-22},
-  volume = {},
-  number = {}
+@Article{VidoniCunico2022,
+author={Vidoni, Melina and Cunico, Maria Laura},
+title="{On Technical Debt in Mathematical Programming: An Exploratory Study}"",
+journal="{Mathematical Programming Computation}"",
+year={2022},
+month={Aug},
+day={05},
+issn={1867-2957},
+doi={10.1007/s12532-022-00225-1},
+url={https://link.springer.com/article/10.1007/s12532-022-00225-1}
 }
 ```
 
