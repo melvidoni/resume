@@ -89,7 +89,7 @@ Open Access funding enabled and organized by CAUL and its Member Institutions.
 ```
 @Article{VidoniCunico2022,
 author={Vidoni, Melina and Cunico, Maria Laura},
-title="{On Technical Debt in Mathematical Programming: An Exploratory Study}"",
+title="{On Technical Debt in Mathematical Programming: An Exploratory Study}",
 journal="{Mathematical Programming Computation}"",
 year={2022},
 month={Aug},
