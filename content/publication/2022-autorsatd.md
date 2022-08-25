@@ -14,14 +14,14 @@ image_preview: ""
 math: true
 publication_types: ["3"]
 
-publication: "In *Automated Software Engineering Journal*, Vol X"
-publication_short: "In *Automated Software Engineering Journal*, Vol X"
+publication: "In *Automated Software Engineering Journal*, Vol (29)2), pp.53"
+publication_short: "In *Automated Software Engineering Journal*, Vol 29(2)"
 
 featured: true
 
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "publication/2022-autorsatd.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
@@ -62,17 +62,26 @@ This study is partly supported by the Natural Sciences and Engineering Research 
 ### Citation
 
 ```
-@article{Sharma2022,
-title = "{Self-Admitted Technical Debt in R: Detection and Causes}",
-journal = "{Automated Software Engineering Journal}",
-volume = {X},
-pages = {1-24},
-year = {2022},
-issn = {0928-8910},
-doi = {10.1007/s10515-022-00358-6},
-author = {Rishab Sharma and Ramin Shahbazi and Fatemeh H. Fard and Zadia Codabux and Melina Vidoni},
-keywords = {Software engineering, self-admitted technical debt, machine learning, natural language processing},
+@Article{Sharma2022,
+author={Sharma, Rishab
+and Shahbazi, Ramin
+and Fard, Fatemeh H.
+and Codabux, Zadia
+and Vidoni, Melina},
+title="{Self-Admitted Technical Debt in R: Detection and Causes}",
+journal={Automated Software Engineering},
+year={2022},
+month={Aug},
+day={25},
+volume={29},
+number={2},
+pages={53},
+issn={1573-7535},
+doi={10.1007/s10515-022-00358-6},
+url={https://doi.org/10.1007/s10515-022-00358-6}
 }
+
+
 ```
 
 
