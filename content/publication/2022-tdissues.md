@@ -8,8 +8,8 @@ authors: ["Shubhashis Karmakar", "Zadia Codabux", "Melina Vidoni"]
 date: "2022-06-22T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "in 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)"
-publication_short: ""
+publication: "in 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), pp.295–300"
+publication_short: "in ESEM'22, pp.295–300"
 featured: false
 title: "An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned"
 url_code: ""
@@ -48,21 +48,26 @@ Although we successfully classified PRCs as TD and non-TD and the TD comments as
 
 
 
+
 <br />
 
 
 
 ## Citation
 ```
-@INPROCEEDINGS{Shubhashis2022,
-author = {k. Shubhashis and Z. Codabux and M. Vidoni},
-booktitle = "{16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)}",
+@inproceedings{Karmakar2022,
+author = {Karmakar, Shubhashis and Codabux, Zadia and Vidoni, Melina},
 title = "{An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned}",
 year = {2022},
-pages = {},
-keywords = {Mining software repositories; technical debt, machine learning},
+isbn = {9781450394277},
+publisher = {Association for Computing Machinery},
+address = {New York, USA},
 doi = {10.1145/3544902.3546637},
-publisher = {IEEE Computer Society},
-address = {Helsinki, Finland},
+booktitle = {16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+pages = {295–300},
+numpages = {6},
+keywords = {Mining Software Repositories, Technical Debt, Pull Request Comments},
+location = {Helsinki, Finland},
+series = {ESEM '22}
 }
 ```
