@@ -19,7 +19,6 @@ _2022_
 
 - Member of the Editorial Board at [Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology/editorial-board/melina-vidoni) [Rank A, Top-4 venue in Software Systems]
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
-
 - Organising Committee member of [MSR4P&S Workshop](https://2022.esec-fse.org/track/fse-2022-workshops), colocated with ESEC/FSE 2022 [Rank A*]
 
 

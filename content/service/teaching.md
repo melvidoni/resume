@@ -14,7 +14,7 @@ weight = 20
 
 **Current Courses (ANU)**
 
-N/A
+- [COMP4130: Managing Software Quality and Process](https://programsandcourses.anu.edu.au/course/comp4130) from 2023 S1.
 
 
 
