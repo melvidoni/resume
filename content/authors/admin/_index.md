@@ -42,7 +42,7 @@ education:
   - course: PhD in Information Systems Engineering
     institution: Universidad Tecnologica Nacional, Regional Santa Fe
     year: 2017
-  - course: BSc in Engineering, BSc in Information Systems Engineering
+  - course: MPhil in Information Systems Engineering
     institution: Universidad Tecnologica Nacional, Regional Santa Fe
     year: 2013
 
