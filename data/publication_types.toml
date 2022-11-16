@@ -9,5 +9,5 @@ types = [ "pub_uncat",
           "pub_preprint",
           "pub_report",
           "pub_thesis",
-          "pub_patent"
+          "pub_editedprocs"
         ]

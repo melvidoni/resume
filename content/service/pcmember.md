@@ -19,7 +19,7 @@ _2022_
 
 - Member of the Editorial Board at [Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology/editorial-board/melina-vidoni) [Rank A, Top-4 venue in Software Systems]
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
-- Organising Committee member of [MSR4P&S Workshop](https://2022.esec-fse.org/track/fse-2022-workshops), colocated with ESEC/FSE 2022 [Rank A*]
+- Organising Committee member of [MSR4P&S Workshop](https://2022.esec-fse.org/track/fse-2022-workshops), colocated with ESEC/FSE 2022 [Rank A*]. [Proceedings @ ACM](publication/2022-msr4ps/).
 
 
 
@@ -29,10 +29,12 @@ _2022_
 
 _2023_
 
-- [MSR 2023 (Mining Software Repositories), main track]() [Rank A]
+- [MSR 2023 (Mining Software Repositories), main track](https://conf.researchr.org/committee/msr-2023/msr-2023-technical-papers-program-committee) [Rank A]
 - [ESEC/FSE 2023 (Foundations of Software Engineering), main track](https://2023.esec-fse.org/track/fse-2023-research-papers), [Rank A*].
 - [ICPC 2023 (International Conference on Program Comprehensionl), Main Research Track]() [Rank A]
 - [EASE 2023 (International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/committee/ease-2023/ease-2023-research-program-committee) [Rank A]
+
+
 
 _2022_
 
