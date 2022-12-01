@@ -17,30 +17,21 @@ weight = 15
 
 </br>
 
+
 ## Undergraduate Research Students
 
-### Honours:
-
-- **Manas Prasad**. _Topic:_ "Security issues admitted in commit messages". _Type:_: Honours, 2022. _Co-Advisor:_ [Dr Díaz-Ferreyra from TUHH, Germany](https://www.ndiaz-ferreyra.com). _Awarded the ANU Co-Lab Grant_.
-- **Dominic Yang**. _Topic:_ "GitHub issues in the R/Python community". _Type:_ Honours, 2022.
-- **Kevin Halim**. _Topic:_ "Gray Literature review on Software Engineering in Medium". _Type::_ Honours, 2022.
-
-
-
-### Research Projects:
-
-- **David Filing**. _Topic:_ "Advanced Topic-Modelling in BioConductor forums". _Type:_ Honours, 2022.
-- **Linda Kwan**. _Topic:_ "Privacy and Security in MSR Research". _Type:_ Research Project, 2022. _Co-Advisor:_ [Dr Díaz-Ferreyra from TUHH, Germany](https://www.ndiaz-ferreyra.com).
-
-
+- Kevin Halim. _Topic:_ "Gray Literature review on Software Engineering in Medium". _Type:_ Research Projects, 2022-2023.
+- Raymond Horley. _Topic:_ "NLP-driven Analysis of Refactoring and Code Smells in Python". _Type:_ Research Projects, 2022-2023.
+- Ashley Tang, _Topic:_ "A large-scale mixed-methods study of reproducibility in Q&A forums across programming languages". _Type:_ Honour, 2023.
 
 
 
 
 </br>
 
-## Posgraduate Candidates
+## Higher Degree by Research Students
 
 - **Zara Hassan, MsC**. PhD Candidate studying Reproducibility on Scientific Software. _Co-Advisor:_ [Dr Zadia Codabux from USask, Canada](https://www.cs.usask.ca/faculty/zadiacodabux/index.html)
+- **Iko-ojo Simon**. PhD Candidate studying Algorithm Technical Debt. _Co-Advisor:_ [Dr Fatemeh Fard from University of British Columbia, Canada](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/)
 
-- **Shiqiao Zhou**. Master, studying NLP on commit messages.
+
