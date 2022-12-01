@@ -31,7 +31,7 @@ _2023_
 
 - [MSR 2023 (Mining Software Repositories), main track](https://conf.researchr.org/committee/msr-2023/msr-2023-technical-papers-program-committee) [Rank A]
 - [ESEC/FSE 2023 (Foundations of Software Engineering), main track](https://2023.esec-fse.org/track/fse-2023-research-papers), [Rank A*].
-- [ICPC 2023 (International Conference on Program Comprehensionl), Main Research Track]() [Rank A]
+- [ICPC 2023 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2023/icpc-2023-research-program-committee) [Rank A]
 - [EASE 2023 (International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/committee/ease-2023/ease-2023-research-program-committee) [Rank A]
 
 

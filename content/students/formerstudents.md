@@ -21,11 +21,11 @@ weight = 20
 
 ### ANU
 
-- Manas Prasad. _Topic:_ "Security issues admitted in commit messages". _Type:_: Honours, 2022. _Co-Advisor:_ [Dr Díaz-Ferreyra from TUHH, Germany](https://www.ndiaz-ferreyra.com). _Awarded the ANU Co-Lab Grant_. **Graduated:** HD: 86 (H1)
-- Dominic Yang. _Topic:_ "GitHub issues in the R/Python community". _Type:_ Research Project, 2022. **Graduated:** Graduated D:78 marks.
+- Manas Prasad. _Topic:_ "Security issues admitted in commit messages". _Type:_: Honours, 2022. _Co-Advisor:_ [Dr Díaz-Ferreyra from TUHH, Germany](https://www.ndiaz-ferreyra.com). _Awarded the ANU Co-Lab Grant_. **Graduated:** HD: 86 (H1 Honours)
+- Dominic Yang. _Topic:_ "GitHub issues in the R/Python community". _Type:_ Research Project, 2022. **Graduated:** Graduated D: (78).
 - David Filing. _Topic:_ "Advanced Topic-Modelling in BioConductor forums". _Type:_ Research Project, 2022. **Graduated:** D.
-- Shiqiao Zhou. _Topic:_ "Analysis of Frustration Disclosuires in Java, Python and C". _Type:_ Master by Coursework. **Graduated:** HD.
-- Richeng Zhang. **Topic:** _"Analysing data science conversations in Twitter"_. **Type:** Individual research project, S1 2022. **Graduated:** D.
+- Shiqiao Zhou. _Topic:_ "Analysis of Frustration Disclosures in Java, Python and C". _Type:_ Master by Coursework. **Graduated:** HD (84).
+- Richeng Zhang. **Topic:** _"Analysing data science conversations in Twitter"_. **Type:** Individual research project, S1 2022. **Graduated:** D (75).
 
 
 
