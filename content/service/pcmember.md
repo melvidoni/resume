@@ -69,11 +69,12 @@ _< 2020_
 
 
 
+
 </br>
 
-**Other Peer-Review Activities**
+**Other Peer-Reviewing Activities**
 
-- Associate Editor of [rOpenSci Software Peer Review](https://ropensci.org/blog/2019/01/31/more_editors/) (2018-present).
+- Associate Editor of [rOpenSci Software Peer Review](https://ropensci.org/blog/2019/01/31/more_editors/) (2018-January 2023).
 - Peer Reviewer for the AnitaB.org "Pass It On" Awards (2019)
 
 

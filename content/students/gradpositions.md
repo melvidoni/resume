@@ -22,7 +22,6 @@ At this moment I do not have any pre-funded positions available. As a result, if
   
 - Have already scouted and selected a scholarship to apply for. Do note that you need to have reasonable chances of being granted the scholarship. You will also need to contact me about 3-4 months _before_ the scholarship closing deadline.
 
-- **Although everyone is welcome to apply, women, non-binary and female-identifying people are especially encouraged to submit.**
 
 
 ### How to Apply:
