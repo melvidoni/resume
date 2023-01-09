@@ -13,7 +13,7 @@ weight = 10
 
 ## Open Honours/Research Positions:
 
-I am looking for Honours Students to work at ANU in 2022. Please, contact me via email with a detailed resume, and your comments (1 page only) on why you are interested in on of my open projects. To work with me, you must have at least 70/100 average across your courses (HD or D).
+I am looking for Honours Students to work at ANU in 2023. Please, contact me via email with a detailed resume, and your comments (1 page only) on why you are interested in on of my open projects. To work with me, you must have at least 70/100 average across your courses (HD or D).
 
 - [Analysing Examples in R Packages Documentation](https://cecs.anu.edu.au/research/student-research-projects/documenting-r-packages-what-good-example-hons-open)
 - [Developers' Discussions and Software Quality](https://cecs.anu.edu.au/research/student-research-projects/how-developers-discussions-software-design-affect-quality-open)
