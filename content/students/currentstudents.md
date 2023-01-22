@@ -22,7 +22,7 @@ weight = 15
 
 - Kevin Halim. _Topic:_ "Gray Literature review on Software Engineering in Medium". _Type:_ Research Projects, 2022-2023.
 - Raymond Horley. _Topic:_ "NLP-driven Analysis of Refactoring and Code Smells in Python". _Type:_ Research Projects, 2022-2023.
-- Ashley Tang, _Topic:_ "A large-scale mixed-methods study of reproducibility in Q&A forums across programming languages". _Type:_ Honour, 2023.
+- Ashley Tang, _Topic:_ "A large-scale mixed-methods study of reproducibility in Q&A forums across programming languages". _Type:_ Honours, 2023.
 
 
 
