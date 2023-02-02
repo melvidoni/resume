@@ -31,7 +31,6 @@ weight = 15
 
 ## Higher Degree by Research Students
 
-- **Zara Hassan, MsC**. PhD Candidate studying Reproducibility on Scientific Software. _Co-Advisor:_ [Dr Zadia Codabux from USask, Canada](https://www.cs.usask.ca/faculty/zadiacodabux/index.html)
 - **Iko-ojo Simon**. PhD Candidate studying Algorithm Technical Debt. _Co-Advisor:_ [Dr Fatemeh Fard from University of British Columbia, Canada](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/)
 
 
