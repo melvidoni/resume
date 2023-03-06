@@ -9,7 +9,7 @@ math: true
 publication_types: ["1"]
 publication: "in Workshop on Recruiting Participants for Empirical Software Engineering (ROPES, Co-located with ICSE 2022)"
 publication_short: ""
-featured: true
+featured: false
 title: "Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants"
 url_code: ""
 url_dataset: ""
