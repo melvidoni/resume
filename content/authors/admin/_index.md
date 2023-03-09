@@ -85,10 +85,10 @@ email: ""
 
 Dr Vidoni is an academic (Lecturer, eq. to Assistant Professor) at the _Australian National University_ in the _CECS School of Computing_. She has ongoing domestic and international collaborations with Canada and Germany. Dr Vidoni's main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software. 
 
-She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD on the same institution, with the maximum qualification. She founded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Between 2018-2022, she was also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/). In 2022, Dr Vidoni joined the Editorial Board of Information and Software Technology.
+She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD _summa cum laude_ on the same institution. She founded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Between 2018-2022, she was also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/). In 2022, Dr Vidoni joined the Editorial Board of Information and Software Technology.
 
 
-**For students' recruitment, please refer to [Students Recruitment](/students).**
+**Dr Vidoni is not recruiting new students for 2023.**
 
 
 <br/>

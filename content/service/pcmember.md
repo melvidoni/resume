@@ -13,9 +13,9 @@ weight = 5
 </br>
 
 
-**Editorial Board**
+## Editorial Board
 
-_2022_
+**2022**
 
 - Member of the Editorial Board at [Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology/editorial-board/melina-vidoni) [Rank A, Top-4 venue in Software Systems]
 - Journal of Systems and Software Open Science Board member, since September 2021. [Rank A]
@@ -25,9 +25,9 @@ _2022_
 
 </br>
 
-**Program Committee Duties**
+## Program Committee Duties
 
-_2023_
+**2023**
 
 - [MSR 2023 (Mining Software Repositories), main track](https://conf.researchr.org/committee/msr-2023/msr-2023-technical-papers-program-committee) [Rank A]
 - [ESEC/FSE 2023 (Foundations of Software Engineering), main track](https://2023.esec-fse.org/track/fse-2023-research-papers), [Rank A*].
@@ -36,7 +36,7 @@ _2023_
 
 
 
-_2022_
+**2022**
 
 - [PROMISE 2022 (Conference on Predictive Models and Data Analytics in Software Engineering)](https://promiseconf.github.io/2022/index.html), co-located with FSE 2022 [Rank A*]
 - P[ASE 2022 (Automated Software Engineering), NIER track](https://conf.researchr.org/committee/ase-2022/ase-2022-nier-track-program-committee) and [Late Breaking track](https://conf.researchr.org/committee/ase-2022/ase-2022-late-breaking-results-program-committee) [Rank A*]
@@ -50,7 +50,7 @@ _2022_
 
 
 
-_2021_
+**2021**
 
 - Program Committee member of [ICSME 2021 (International Conference on Software Maintenance and Evolution), Main Research Track](https://icsme2021.github.io/ProgramCommittee.html). Recipient of the **Distinguished Reviewer Award** [<i class="fas fa-link" style="color:#002db3"></i>](https://twitter.com/aserebrenik/status/1444009795355349014?s=20) [Rank A]
 - Program Committee member of [ASE 2021 (Automated Software Engineering), Late Breaking Results (LBR) track](https://conf.researchr.org/committee/ase-2021/ase-2021-late-breaking-results-program-committee). [Rank A*]
@@ -59,7 +59,7 @@ _2021_
 
 
 
-_< 2020_
+**< 2020**
 
 - Program Committee member of Latinamerican Conference About the Use of R in R&D (LatinR 2019).
 - Program Committee member of [21st International Conference on Enterprise Information Systems (ICEIS 2019)](http://www.iceis.org/ProgramCommittee.aspx?y=2019), main research track and position papers. [Rank B]
@@ -72,7 +72,7 @@ _< 2020_
 
 </br>
 
-**Other Peer-Reviewing Activities**
+## Other Peer-Reviewing Activities
 
 - Associate Editor of [rOpenSci Software Peer Review](https://ropensci.org/blog/2019/01/31/more_editors/) (2018-January 2023).
 - Peer Reviewer for the AnitaB.org "Pass It On" Awards (2019)
