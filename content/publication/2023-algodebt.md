@@ -28,9 +28,14 @@ image:
 
 
 
+links:
+- name: "URL"
+  url: "https://conf.researchr.org/track/cain-2023/cain-2023-call-for-posters#List-of-Accepted-Posters"
+
+
 # Projects (optional).
-#projects:
-#- 2020-rse
+projects:
+- 2023-algodebt
 
 
 ---
