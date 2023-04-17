@@ -22,12 +22,23 @@ url_video: ""
 url_code: ""
 
 
+
+links:
+- name: "Conference"
+  url: "https://conf.researchr.org/details/cain-2023/cain-2023-call-for-posters/10/Algorithm-Debt-Challenges-and-Future-Paths"
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 image:
   caption: ""
   focal_point: "Smart"
   preview_only: true
+
+
+# https://conf.researchr.org/details/cain-2023/cain-2023-call-for-posters/10/Algorithm-Debt-Challenges-and-Future-Paths
+
 
 ---
 
