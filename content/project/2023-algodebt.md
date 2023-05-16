@@ -15,6 +15,9 @@ tags: ["Active Project", "Recruiting Students"]
 external_link: ""
 
 
+
+featured: false
+
 # Links (optional).
 url_pdf: ""
 url_slides: ""

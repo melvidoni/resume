@@ -7,17 +7,17 @@ authors: ["Nicolás E. Díaz Ferreyra", "Abdessamad Imine", "Melina Vidoni", "Ri
 date: "2023-03-03T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "in 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2023), pp.XXX"
-publication_short: "in CHASE'23, pp.XXX"
+publication: "in 16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2023), pp.105-110"
+publication_short: "in CHASE'23, pp.105--110"
 featured: true
 title: "Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms"
 url_code: ""
 url_dataset: "https://zenodo.org/record/7692654"
-url_pdf: "https://doi.org/10.48550/arXiv.2303.01822"
+url_pdf: "publication/2023-devsprotecttion/pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
-doi: ""
+doi: "10.1109/CHASE58964.2023.00019"
 
 
 
@@ -60,9 +60,9 @@ year = {2023},
 isbn = {},
 publisher = {Association for Computing Machinery},
 address = {New York, USA},
-doi = {},
+doi = {10.1109/CHASE58964.2023.00019},
 booktitle = {16th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2023)},
-pages = {},
+pages = {105-110},
 numpages = {12},
 location = {Melbourne, Australia},
 series = {CHASE'23}

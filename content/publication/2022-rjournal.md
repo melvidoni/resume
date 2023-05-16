@@ -13,7 +13,7 @@ publication_types: ["3"]
 publication: "In *The R Journal*, pp600-23. Vol 13(2)"
 publication_short: "In *The R Journal*, pp600-23. Vol 13(2)"
 
-featured: true
+featured: false
 
 url_code: ""
 url_dataset: ""

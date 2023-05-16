@@ -7,19 +7,22 @@ authors: ["Iko-ojo Simon", "Melina Vidoni", "Fatemeh H. Fard"]
 date: "2023-03-03T00:00:00Z"
 math: true
 publication_types: ["1"]
-publication: "in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN'23), pp.XXX"
-publication_short: "in CAIN'23, pp.XXX"
-featured: false
+
+publication: "in 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN'23), pp.90-91"
+publication_short: "in CAIN'23, pp.90-91"
+
 title: "Algorithm Debt: Challenges and Future Paths"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "publication/2023-algodebt.pdf"
 url_project: ""
 url_slides: ""
 url_video: ""
 doi: ""
 
 
+
+featured: true
 
 image:
   caption: ""
@@ -52,7 +55,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, USA},
 doi = {},
 booktitle = "{2nd International Conference on AI Engineering – Software Engineering for AI (CAIN'23)}",
-pages = {},
+pages = {90-91},
 numpages = {12},
 location = {Melbourne, Australia},
 series = {CAIN'23}

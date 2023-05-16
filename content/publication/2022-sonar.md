@@ -14,7 +14,7 @@ publication_types: ["3"]
 publication: "In *SoftwareX*, Vol 19C"
 publication_short: "In *SoftwareX*, Vol 19C"
 
-featured: true
+featured: false
 
 url_code: "https://github.com/tdresearchgroup/analyzeR-SonarQubePlugin"
 url_dataset: ""

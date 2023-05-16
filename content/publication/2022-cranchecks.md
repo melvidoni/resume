@@ -9,7 +9,7 @@ math: true
 publication_types: ["1"]
 publication: "in IEEE/ACM 30th **International Conference on Program Comprehension (ICPC)**, 2022"
 publication_short: "in **ICPC 2022**, pp570-574"
-featured: true
+featured: false
 title: "On the Developers' Attitude Towards CRAN Checks"
 url_code: ""
 url_dataset: "https://doi.org/10.5281/zenodo.6342280"
