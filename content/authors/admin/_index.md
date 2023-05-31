@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: "Lecturer at ANU CESC"
+role: "Dev Manager @ eWater"
+
 
 # Organizations/Affiliations
 organizations:
-- name: IST Editorial Board Member
-  url: "https://www.journals.elsevier.com/information-and-software-technology/editorial-board/melina-vidoni"
+- name: Lecturer @ ANU CECC (on leave)
+
+
+
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD. Lecturer at Australian National University. Associate Editor of rOpenSci.
 
 interests:
-- Empirical Software Engineering
 - Technical Debt
-- Data Science
 - Scientific Software
 - Mining Software Repositories
+- Empirical Software Engineering
+
 
 
 education:
@@ -83,12 +86,12 @@ email: ""
   
 ---
 
-Dr Vidoni is an academic (Lecturer, eq. to Assistant Professor) at the _Australian National University_ in the _CECS School of Computing_. She has ongoing domestic and international collaborations with Canada and Germany. Dr Vidoni's main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software. 
+Dr Melina Vidoni is a Software Manager at eWater (in Canberra, Australia). She is also a Lecturer (on leave, eq. to Assistant Professor) at the _Australian National University_ in the _CECS School of Computing_. She specialises on technical debt management in scientific software, with a keen interest in technical debt identification and repayment strategies. For now, she remains active in research and academic supervision, continuing her international collaborations with Canada and Germany. 
 
 She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD _summa cum laude_ on the same institution. She founded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Between 2018-2022, she was also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/). In 2022, Dr Vidoni joined the Editorial Board of Information and Software Technology.
 
 
-**Dr Vidoni is not recruiting new students for 2023.**
+**Dr Vidoni is not recruiting new students for 2023-2024.**
 
 
 <br/>

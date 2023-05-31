@@ -13,7 +13,7 @@ publication_types: ["3"]
 publication: "In *ACM SIGSOFT Software Engineering Notes*, Vol 48(1)"
 publication_short: "In *ACM SIGSOFT Software Engineering Notes*, Vol 48(1)"
 
-featured: true
+featured: false
 
 url_code: ""
 url_dataset: ""

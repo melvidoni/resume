@@ -6,7 +6,7 @@ active = true
 weight = 50 
 
 title = "Experience"
-subtitle = "Past positions and positions in the Academia."
+subtitle = "Past positions and positions in the Academia and Industry, in Australia and Abroad."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -21,7 +21,26 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Lecturer (eq. Assistant Professor)"
+  title = "Software Manager"
+  company = "eWater Solutions"
+  company_url = ""
+  location = "Canberra, Australia"
+  date_start = "2023-03-27"
+  date_end = ""
+  description = """
+
+Software manager, leading the software development teams (web and desktop). Responsibilities include: identifying software risks factors, leading the agile transformation, and modernising legacy scientific software, among others.
+
+  """
+
+
+
+
+
+
+
+[[experience]]
+  title = "Lecturer (eq. Assistant Professor) [On Leave]"
   company = "Australian National University, School of Computing"
   company_url = "https://cs.anu.edu.au/"
   location = "Canberra, Australia"
@@ -29,9 +48,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  Responsibilities include:
-  
-  - Research in a range of topics focused in empirical Software Engineering and Technical Debt, in Data Science and Scientific Software.
+* Tenure track, since November 2021. 
+* FTE 0.4 between March-June 2023. 
+* On leave since July 2023.
 
   """
 
