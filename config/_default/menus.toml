@@ -21,7 +21,7 @@
   weight = 6
 
 [[main]]
-  name = "Service"
+  name = "Experience & Service"
   url = "service/"
   weight = 5
 

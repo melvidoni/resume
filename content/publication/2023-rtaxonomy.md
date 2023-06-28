@@ -8,7 +8,7 @@ date: "2023-05-30T00:00:00Z"
 math: true
 publication_types: ["3"]
 publication: "in Empirical Software Engineering, pp. XX"
-publication_short: "in EMSE, vol. XX(, paper 111698(XX)"
+publication_short: "in EMSE, vol. XX(XX)"
 featured: true
 title: "Towards a Taxonomy of Roxygen Documentation in R Packages"
 url_code: ""
@@ -17,7 +17,7 @@ url_pdf: ""
 url_project: ""
 url_slides: ""
 url_video: ""
-doi: ""
+doi: "10.1007/s10664-023-10345-4"
 
 
 

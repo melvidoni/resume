@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Dev Manager @ eWater"
+role: "Software Manager @ eWater"
 
 
 # Organizations/Affiliations
@@ -22,7 +22,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD. Lecturer at Australian National University. Associate Editor of rOpenSci.
+bio: Software Manager @ eWater. Lecturer @ ANU (on leave).
 
 interests:
 - Technical Debt
