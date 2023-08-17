@@ -29,10 +29,15 @@ weight = 5
 
 **2023**
 
-- [MSR 2023 (Mining Software Repositories), main track](https://conf.researchr.org/committee/msr-2023/msr-2023-technical-papers-program-committee) [Rank A]. Recipient of the **ACM Distinguished Reviewer Award**.
+- [MSR 2023 (Mining Software Repositories), main track](https://conf.researchr.org/committee/msr-2023/msr-2023-technical-papers-program-committee) [Rank A]. Recipient of the **ACM Distinguished Reviewer Award**. [<i class="fas fa-file-pdf" style="color:#850101"></i>](../pdf/2023-msracm.pdf)
+
 - [ESEC/FSE 2023 (Foundations of Software Engineering), main track](https://2023.esec-fse.org/track/fse-2023-research-papers), [Rank A*].
-- [ICPC 2023 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2023/icpc-2023-research-program-committee) [Rank A]. Recipient of the **ACM Distinguished Reviewer Award**.
+- [ICPC 2023 (International Conference on Program Comprehensionl), Main Research Track](https://conf.researchr.org/committee/icpc-2023/icpc-2023-research-program-committee) [Rank A]. Recipient of the **ACM Distinguished Reviewer Award**. [<i class="fas fa-file-pdf" style="color:#850101"></i>](../pdf/2023-icpcacm.pdf)
 - [EASE 2023 (International Conference on Evaluation and Assessment in Software Engineering](https://conf.researchr.org/committee/ease-2023/ease-2023-research-program-committee) [Rank A]
+
+
+
+
 
 
 

@@ -34,16 +34,16 @@ interests:
 
 education:
   courses:
-  - course: Diploma on Business Analysis
+  - course: Diploma in Business Analysis
     institution: Universidad Tecnologica Nacional, Regional Buenos Aires
     year: 2018
-  - course: Diploma on Business Intelligence
+  - course: Diploma in Business Intelligence
     institution: Universidad Tecnologica Nacional, Regional Buenos Aires
     year: 2017
-  - course: PhD in Information Systems Engineering
+  - course: PhD, Software Engineering
     institution: Universidad Tecnologica Nacional, Regional Santa Fe
     year: 2017
-  - course: MPhil in Information Systems Engineering
+  - course: Engineer, Information Systems Engineering
     institution: Universidad Tecnologica Nacional, Regional Santa Fe
     year: 2013
 
@@ -52,12 +52,12 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:melina.vidoni@anu.edu.au"
 - icon: twitter
   icon_pack: fab
   link: "//twitter.com/melvidoni"
+- icon: linkedin
+  icon_pack: fab
+  link: "//www.linkedin.com/in/dr-melina-vidoni-a056b4281/"
 - icon: google-scholar
   icon_pack: ai
   link: "https://scholar.google.com.ar/citations?user=Th-fldcAAAAJ&hl=en"
@@ -86,9 +86,12 @@ email: ""
   
 ---
 
-Dr Melina Vidoni is a Software Manager at eWater (in Canberra, Australia). She is also a Lecturer (on leave, eq. to Assistant Professor) at the _Australian National University_ in the _CECS School of Computing_. She specialises on technical debt management in scientific software, with a keen interest in technical debt identification and repayment strategies. For now, she remains active in research and academic supervision, continuing her international collaborations with Canada and Germany. 
+As a Software Development Lead at eWater Group, I manage the web and desktop software teams, ensuring the quality and reliability of our scientific software products. I have over 13+ years of experience in software engineering, having consulted across a wide range of companies to direct their agile transformation and product roadmap. Some of the companies include a variety of factories, start-ups, legacy modernisation opportunities, and video-game independent developers.
 
-She graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, she received her PhD _summa cum laude_ on the same institution. She founded [R-Ladies Santa Fe](https://www.meetup.com/rladies-santa-fe/) in 2018, and in 2019 moved to Australia to further her research career. Between 2018-2022, she was also Associate Editor for [rOpenSci](https://ropensci.org/blog/2019/01/31/more_editors/). In 2022, Dr Vidoni joined the Editorial Board of Information and Software Technology.
+I graduated from [Universidad Tecnologica Nacional (UTN)](https://www.frsf.utn.edu.ar/) as an Information Systems Engineer. Years later, I received my PhD _summa cum laude_ on the same institution. I am currently _on leave_ from my position as Lecturer at the Australian National University in the CECS School of Computing, having worked at other universities and research institutes before. I have over a 11+ years of experience as an academic, with a particular focus on the quality, technical debt, and development process if _scientific software_. My main areas of research technical debt management in scientific software and software quality, collaborating with international partners in Canada and Germany. 
+
+
+I'm also an Editorial Board Member of Information and Software Technology (since 2022), and four times recognised as an ACM Distinguished Reviewer.
 
 
 **Dr Vidoni is not recruiting new students for 2023-2024.**

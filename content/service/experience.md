@@ -3,7 +3,7 @@
 widget = "experience"
 headless = true 
 active = true 
-weight = 50 
+weight = 40 
 
 title = "Experience"
 subtitle = "Past positions and positions in the Academia and Industry, in Australia and Abroad."
@@ -21,15 +21,23 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Software Manager"
-  company = "eWater Solutions"
+  title = "Software Development Lead"
+  company = "eWater Group"
   company_url = ""
   location = "Canberra, Australia"
   date_start = "2023-03-27"
   date_end = ""
   description = """
 
-Software manager, leading the software development teams (web and desktop). Responsibilities include: identifying software risks factors, leading the agile transformation, and modernising legacy scientific software, among others.
+As a Software Development Lead at eWater Group, I manage the web and desktop software teams, ensuring the quality and reliability of our scientific software products. My main goals are:
+
+*	To create a culture of continuous improvement, collaboration, with the stakeholder at its centre.
+*	To maximise the flow of value delivery by embracing a lean software development lifecycle.
+*	To improve the internal collaboration between developers, research software engineers, and hydrologists.
+*	To empower my team to respond quickly to changes in the market and customer needs.
+*	To foster and nourish the reliability of our products.
+*	To continue to adapt our software products to modern times, while continue to provide operational excellence 
+
 
   """
 

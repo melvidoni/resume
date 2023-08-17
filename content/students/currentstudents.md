@@ -20,15 +20,9 @@ weight = 15
 
 ## Undergraduate Research Students
 
-- Kevin Halim. _Topic:_ "Gray Literature review on Software Engineering in Medium". _Type:_ Research Projects, 2022-2023.
-- Raymond Horley. _Topic:_ "NLP-driven Analysis of Refactoring and Code Smells in Python". _Type:_ Research Projects, 2022-2023.
-- Ashley Tang, _Topic:_ "A large-scale mixed-methods study of reproducibility in Q&A forums across programming languages". _Type:_ Honours, 2023.
-
-
-</br>
-## Masters Students
-- Richeng Zhang. _Topic_: "Uncovering Algorithm Smells on Developers’ Discussions". _Type:_ Master's Research Project, 2023. Co-supervised with Iko-ojo Simon (PhD Student).
-
+- Ashley Tang, **Topic:** "A large-scale mixed-methods study of reproducibility in Q&A forums across programming languages". **Type:** Honours, 2023.
+- Selene Kim, **Topic:** "Code Summarisation for Scientific Software in .NET". **Type:** Research Project, 2023.
+- Xiyang Huang, **Topic:** "Cross-Domain, Multi-Language Automated Detection of Code and Algorithm Debt". **Type:** Research Project, 2023. **Co-Advisor:** Iko-ojo Simon.
 
 
 
@@ -37,7 +31,7 @@ weight = 15
 
 ## Higher Degree by Research Students
 
-- Iko-ojo Simon. PhD Candidate studying Algorithm Technical Debt. _Co-Advisor:_ [Dr Fatemeh Fard from University of British Columbia, Canada](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/)
-- Shawn Zhao. _Topic:_ "Documentation in R Programming". _Type:_ MPhil, 2023. Student at the University of British Columbia, under the main supervision of Dr Fatemeh H. Fard. Dr Vidoni is co-supervisor.
+- Iko-ojo Simon. **Topic:** Algorithm Debt (Technical Debt in Scientific Software). **Co-Advisor:** [Dr Fatemeh Fard from University of British Columbia, Canada](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/)
+- Shawn Zhao. **Topic:** "Documentation in R Programming". **Type:** MPhil, 2023. Student at the University of British Columbia, under the main supervision of Dr Fatemeh H. Fard. Dr Vidoni is co-supervisor.
 
 
